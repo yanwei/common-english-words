@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>日常高频英语单词卡</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="topbar-copy">
+          <p class="eyebrow">Zhihu Answer Vocabulary Deck</p>
+          <h1>日常高频英语单词卡</h1>
+          <p class="subtitle">
+            来源回答导语写的是 13 类，但正文实际抽取出 14 个分类，共 944 个单词。
+          </p>
+        </div>
+
+        <section class="stats-panel" aria-label="单词统计">
+          <button class="stat-card" data-filter="all" type="button">
+            <span class="stat-label">总数</span>
+            <strong class="stat-value" id="total-count">0</strong>
+          </button>
+          <button class="stat-card" data-filter="known" type="button">
+            <span class="stat-label">熟词</span>
+            <strong class="stat-value" id="known-count">0</strong>
+          </button>
+          <button class="stat-card" data-filter="fuzzy" type="button">
+            <span class="stat-label">模糊</span>
+            <strong class="stat-value" id="fuzzy-count">0</strong>
+          </button>
+          <button class="stat-card" data-filter="unknown" type="button">
+            <span class="stat-label">不会</span>
+            <strong class="stat-value" id="unknown-count">0</strong>
+          </button>
+        </section>
+
+        <div class="toolbar-row">
+          <nav class="filter-bar" aria-label="掌握程度筛选">
+            <button class="filter-chip is-active" type="button" data-filter="all">全部</button>
+            <button class="filter-chip" type="button" data-filter="unlearned">只看未学</button>
+            <button class="filter-chip" type="button" data-filter="known">只看熟词</button>
+            <button class="filter-chip" type="button" data-filter="fuzzy">只看模糊</button>
+            <button class="filter-chip" type="button" data-filter="unknown">只看不会</button>
+          </nav>
+
+          <div class="quick-nav-panel">
+            <div class="quick-nav-select-wrap">
+              <select id="quick-nav-select" class="quick-nav-select" aria-label="分类快速定位"></select>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main id="category-list" class="category-list" aria-live="polite"></main>
+    </div>
+
+    <template id="category-template">
+      <section class="category-section">
+        <div class="category-header">
+          <h2 class="category-title"></h2>
+          <span class="category-count"></span>
+        </div>
+        <div class="word-grid"></div>
+      </section>
+    </template>
+
+    <template id="card-template">
+      <article class="word-card">
+        <div class="word-card-inner">
+          <div class="card-face card-front">
+            <span class="word-index"></span>
+            <h3 class="word-text"></h3>
+            <p class="word-hint">点击翻转查看中文</p>
+          </div>
+          <div class="card-face card-back">
+            <div class="back-header">
+              <span class="part-of-speech"></span>
+              <button class="audio-button" type="button">播放读音</button>
+            </div>
+            <h3 class="word-translation"></h3>
+            <p class="word-ipa"></p>
+            <div class="status-actions" role="group" aria-label="掌握程度标记">
+              <button class="status-button" type="button" data-status="known">熟词</button>
+              <button class="status-button" type="button" data-status="fuzzy">模糊</button>
+              <button class="status-button" type="button" data-status="unknown">不会</button>
+            </div>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

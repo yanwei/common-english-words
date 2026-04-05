@@ -1,0 +1,6689 @@
+{
+  "source": {
+    "pageUrl": "https://www.zhihu.com/question/27584391/answer/2022984490109207601",
+    "pageClaimedCategoryCount": 13,
+    "actualHeadingCount": 14,
+    "totalWords": 944,
+    "note": "The answer intro says 13 categories, but the body contains 14 headings."
+  },
+  "categories": [
+    {
+      "title": "一、名词（Common Nouns Used in Daily English）",
+      "words": [
+        {
+          "index": 1,
+          "word": "Ambition",
+          "ipa": "/æmˈbɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "雄心，野心"
+        },
+        {
+          "index": 2,
+          "word": "Decision",
+          "ipa": "/dɪˈsɪʒn/",
+          "partOfSpeech": "n.",
+          "translation": "决定"
+        },
+        {
+          "index": 3,
+          "word": "Effort",
+          "ipa": "/ˈefərt/",
+          "partOfSpeech": "n.",
+          "translation": "努力"
+        },
+        {
+          "index": 4,
+          "word": "Journey",
+          "ipa": "/ˈdʒɜːrni/",
+          "partOfSpeech": "n.",
+          "translation": "旅行，旅程"
+        },
+        {
+          "index": 5,
+          "word": "Knowledge",
+          "ipa": "/ˈnɑːlɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "知识"
+        },
+        {
+          "index": 6,
+          "word": "Opinion",
+          "ipa": "/əˈpɪnjən/",
+          "partOfSpeech": "n.",
+          "translation": "意见，看法"
+        },
+        {
+          "index": 7,
+          "word": "Advice",
+          "ipa": "/ədˈvaɪs/",
+          "partOfSpeech": "n.",
+          "translation": "建议"
+        },
+        {
+          "index": 8,
+          "word": "Benefit",
+          "ipa": "/ˈbenɪfɪt/",
+          "partOfSpeech": "n.",
+          "translation": "益处，优势"
+        },
+        {
+          "index": 9,
+          "word": "Challenge",
+          "ipa": "/ˈtʃælɪndʒ/",
+          "partOfSpeech": "n.",
+          "translation": "挑战"
+        },
+        {
+          "index": 10,
+          "word": "Choice",
+          "ipa": "/tʃɔɪs/",
+          "partOfSpeech": "n.",
+          "translation": "选择"
+        },
+        {
+          "index": 11,
+          "word": "Communication",
+          "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "交流，沟通"
+        },
+        {
+          "index": 12,
+          "word": "Community",
+          "ipa": "/kəˈmjuːnəti/",
+          "partOfSpeech": "n.",
+          "translation": "社区"
+        },
+        {
+          "index": 13,
+          "word": "Competition",
+          "ipa": "/ˌkɑːmpəˈtɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "竞争，比赛"
+        },
+        {
+          "index": 14,
+          "word": "Confidence",
+          "ipa": "/ˈkɑːnfɪdəns/",
+          "partOfSpeech": "n.",
+          "translation": "信心"
+        },
+        {
+          "index": 15,
+          "word": "Courage",
+          "ipa": "/ˈkɜːrɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "勇气"
+        },
+        {
+          "index": 16,
+          "word": "Culture",
+          "ipa": "/ˈkʌltʃər/",
+          "partOfSpeech": "n.",
+          "translation": "文化"
+        },
+        {
+          "index": 17,
+          "word": "Customer",
+          "ipa": "/ˈkʌstəmər/",
+          "partOfSpeech": "n.",
+          "translation": "顾客"
+        },
+        {
+          "index": 18,
+          "word": "Damage",
+          "ipa": "/ˈdæmɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "损害"
+        },
+        {
+          "index": 19,
+          "word": "Education",
+          "ipa": "/ˌedʒuˈkeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "教育"
+        },
+        {
+          "index": 20,
+          "word": "Emotion",
+          "ipa": "/ɪˈmoʊʃn/",
+          "partOfSpeech": "n.",
+          "translation": "情感"
+        },
+        {
+          "index": 21,
+          "word": "Energy",
+          "ipa": "/ˈenərdʒi/",
+          "partOfSpeech": "n.",
+          "translation": "能量"
+        },
+        {
+          "index": 22,
+          "word": "Environment",
+          "ipa": "/ɪnˈvaɪrənmənt/",
+          "partOfSpeech": "n.",
+          "translation": "环境"
+        },
+        {
+          "index": 23,
+          "word": "Event",
+          "ipa": "/ɪˈvent/",
+          "partOfSpeech": "n.",
+          "translation": "事件"
+        },
+        {
+          "index": 24,
+          "word": "Experience",
+          "ipa": "/ɪkˈspɪriəns/",
+          "partOfSpeech": "n.",
+          "translation": "经验，经历"
+        },
+        {
+          "index": 25,
+          "word": "Freedom",
+          "ipa": "/ˈfriːdəm/",
+          "partOfSpeech": "n.",
+          "translation": "自由"
+        },
+        {
+          "index": 26,
+          "word": "Friendship",
+          "ipa": "/ˈfrendʃɪp/",
+          "partOfSpeech": "n.",
+          "translation": "友谊"
+        },
+        {
+          "index": 27,
+          "word": "Goal",
+          "ipa": "/ɡoʊl/",
+          "partOfSpeech": "n.",
+          "translation": "目标"
+        },
+        {
+          "index": 28,
+          "word": "Growth",
+          "ipa": "/ɡroʊθ/",
+          "partOfSpeech": "n.",
+          "translation": "成长"
+        },
+        {
+          "index": 29,
+          "word": "Health",
+          "ipa": "/helθ/",
+          "partOfSpeech": "n.",
+          "translation": "健康"
+        },
+        {
+          "index": 30,
+          "word": "History",
+          "ipa": "/ˈhɪstri/",
+          "partOfSpeech": "n.",
+          "translation": "历史"
+        },
+        {
+          "index": 31,
+          "word": "Idea",
+          "ipa": "/aɪˈdiːə/",
+          "partOfSpeech": "n.",
+          "translation": "想法"
+        },
+        {
+          "index": 32,
+          "word": "Importance",
+          "ipa": "/ɪmˈpɔːrtns/",
+          "partOfSpeech": "n.",
+          "translation": "重要性"
+        },
+        {
+          "index": 33,
+          "word": "Improvement",
+          "ipa": "/ɪmˈpruːvmənt/",
+          "partOfSpeech": "n.",
+          "translation": "改进"
+        },
+        {
+          "index": 34,
+          "word": "Information",
+          "ipa": "/ˌɪnfərˈmeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "信息"
+        },
+        {
+          "index": 35,
+          "word": "Invention",
+          "ipa": "/ɪnˈvenʃn/",
+          "partOfSpeech": "n.",
+          "translation": "发明"
+        },
+        {
+          "index": 36,
+          "word": "Language",
+          "ipa": "/ˈlæŋɡwɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "语言"
+        },
+        {
+          "index": 37,
+          "word": "Leader",
+          "ipa": "/ˈliːdər/",
+          "partOfSpeech": "n.",
+          "translation": "领导者"
+        },
+        {
+          "index": 38,
+          "word": "Lesson",
+          "ipa": "/ˈlesn/",
+          "partOfSpeech": "n.",
+          "translation": "课，教训"
+        },
+        {
+          "index": 39,
+          "word": "Moment",
+          "ipa": "/ˈmoʊmənt/",
+          "partOfSpeech": "n.",
+          "translation": "时刻"
+        },
+        {
+          "index": 40,
+          "word": "Nature",
+          "ipa": "/ˈneɪtʃər/",
+          "partOfSpeech": "n.",
+          "translation": "自然"
+        },
+        {
+          "index": 41,
+          "word": "Opportunity",
+          "ipa": "/ˌɑːpərˈtuːnəti/",
+          "partOfSpeech": "n.",
+          "translation": "机会"
+        },
+        {
+          "index": 42,
+          "word": "Organization",
+          "ipa": "/ˌɔːrɡənəˈzeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "组织"
+        },
+        {
+          "index": 43,
+          "word": "Partnership",
+          "ipa": "/ˈpɑːrtnərʃɪp/",
+          "partOfSpeech": "n.",
+          "translation": "伙伴关系"
+        },
+        {
+          "index": 44,
+          "word": "Performance",
+          "ipa": "/pərˈfɔːrməns/",
+          "partOfSpeech": "n.",
+          "translation": "表现"
+        },
+        {
+          "index": 45,
+          "word": "Planet",
+          "ipa": "/ˈplænɪt/",
+          "partOfSpeech": "n.",
+          "translation": "行星"
+        },
+        {
+          "index": 46,
+          "word": "Pleasure",
+          "ipa": "/ˈpleʒər/",
+          "partOfSpeech": "n.",
+          "translation": "快乐"
+        },
+        {
+          "index": 47,
+          "word": "Population",
+          "ipa": "/ˌpɑːpjuˈleɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "人口"
+        },
+        {
+          "index": 48,
+          "word": "Position",
+          "ipa": "/pəˈzɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "位置，职位"
+        },
+        {
+          "index": 49,
+          "word": "Possibility",
+          "ipa": "/ˌpɑːsəˈbɪləti/",
+          "partOfSpeech": "n.",
+          "translation": "可能性"
+        },
+        {
+          "index": 50,
+          "word": "Practice",
+          "ipa": "/ˈpræktɪs/",
+          "partOfSpeech": "n.",
+          "translation": "练习"
+        },
+        {
+          "index": 51,
+          "word": "Problem",
+          "ipa": "/ˈprɑːbləm/",
+          "partOfSpeech": "n.",
+          "translation": "问题"
+        },
+        {
+          "index": 52,
+          "word": "Process",
+          "ipa": "/ˈprɑːses/",
+          "partOfSpeech": "n.",
+          "translation": "过程"
+        },
+        {
+          "index": 53,
+          "word": "Product",
+          "ipa": "/ˈprɑːdʌkt/",
+          "partOfSpeech": "n.",
+          "translation": "产品"
+        },
+        {
+          "index": 54,
+          "word": "Progress",
+          "ipa": "/ˈprɑːɡres/",
+          "partOfSpeech": "n.",
+          "translation": "进步"
+        },
+        {
+          "index": 55,
+          "word": "Project",
+          "ipa": "/ˈprɑːdʒekt/",
+          "partOfSpeech": "n.",
+          "translation": "项目"
+        },
+        {
+          "index": 56,
+          "word": "Purpose",
+          "ipa": "/ˈpɜːrpəs/",
+          "partOfSpeech": "n.",
+          "translation": "目的"
+        },
+        {
+          "index": 57,
+          "word": "Quality",
+          "ipa": "/ˈkwɑːləti/",
+          "partOfSpeech": "n.",
+          "translation": "质量"
+        },
+        {
+          "index": 58,
+          "word": "Question",
+          "ipa": "/ˈkwestʃən/",
+          "partOfSpeech": "n.",
+          "translation": "问题"
+        },
+        {
+          "index": 59,
+          "word": "Reason",
+          "ipa": "/ˈriːzn/",
+          "partOfSpeech": "n.",
+          "translation": "理由"
+        },
+        {
+          "index": 60,
+          "word": "Relationship",
+          "ipa": "/rɪˈleɪʃnʃɪp/",
+          "partOfSpeech": "n.",
+          "translation": "关系"
+        },
+        {
+          "index": 61,
+          "word": "Religion",
+          "ipa": "/rɪˈlɪdʒən/",
+          "partOfSpeech": "n.",
+          "translation": "宗教"
+        },
+        {
+          "index": 62,
+          "word": "Result",
+          "ipa": "/rɪˈzʌlt/",
+          "partOfSpeech": "n.",
+          "translation": "结果"
+        },
+        {
+          "index": 63,
+          "word": "Safety",
+          "ipa": "/ˈseɪfti/",
+          "partOfSpeech": "n.",
+          "translation": "安全"
+        },
+        {
+          "index": 64,
+          "word": "Schedule",
+          "ipa": "/ˈskedʒuːl/",
+          "partOfSpeech": "n.",
+          "translation": "日程表"
+        },
+        {
+          "index": 65,
+          "word": "Service",
+          "ipa": "/ˈsɜːrvɪs/",
+          "partOfSpeech": "n.",
+          "translation": "服务"
+        },
+        {
+          "index": 66,
+          "word": "Situation",
+          "ipa": "/ˌsɪtʃuˈeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "情况"
+        },
+        {
+          "index": 67,
+          "word": "Society",
+          "ipa": "/səˈsaɪəti/",
+          "partOfSpeech": "n.",
+          "translation": "社会"
+        },
+        {
+          "index": 68,
+          "word": "Solution",
+          "ipa": "/səˈluːʃn/",
+          "partOfSpeech": "n.",
+          "translation": "解决方案"
+        },
+        {
+          "index": 69,
+          "word": "Speech",
+          "ipa": "/spiːtʃ/",
+          "partOfSpeech": "n.",
+          "translation": "演讲"
+        },
+        {
+          "index": 70,
+          "word": "Strength",
+          "ipa": "/streŋkθ/",
+          "partOfSpeech": "n.",
+          "translation": "力量"
+        },
+        {
+          "index": 71,
+          "word": "Success",
+          "ipa": "/səkˈses/",
+          "partOfSpeech": "n.",
+          "translation": "成功"
+        },
+        {
+          "index": 72,
+          "word": "System",
+          "ipa": "/ˈsɪstəm/",
+          "partOfSpeech": "n.",
+          "translation": "系统"
+        },
+        {
+          "index": 73,
+          "word": "Talent",
+          "ipa": "/ˈtælənt/",
+          "partOfSpeech": "n.",
+          "translation": "天赋"
+        },
+        {
+          "index": 74,
+          "word": "Technology",
+          "ipa": "/tekˈnɑːlədʒi/",
+          "partOfSpeech": "n.",
+          "translation": "技术"
+        },
+        {
+          "index": 75,
+          "word": "Thought",
+          "ipa": "/θɔːt/",
+          "partOfSpeech": "n.",
+          "translation": "想法"
+        },
+        {
+          "index": 76,
+          "word": "Tradition",
+          "ipa": "/trəˈdɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "传统"
+        },
+        {
+          "index": 77,
+          "word": "Trust",
+          "ipa": "/trʌst/",
+          "partOfSpeech": "n.",
+          "translation": "信任"
+        },
+        {
+          "index": 78,
+          "word": "Value",
+          "ipa": "/ˈvæljuː/",
+          "partOfSpeech": "n.",
+          "translation": "价值"
+        },
+        {
+          "index": 79,
+          "word": "Vision",
+          "ipa": "/ˈvɪʒn/",
+          "partOfSpeech": "n.",
+          "translation": "愿景"
+        },
+        {
+          "index": 80,
+          "word": "Wealth",
+          "ipa": "/welθ/",
+          "partOfSpeech": "n.",
+          "translation": "财富"
+        },
+        {
+          "index": 81,
+          "word": "Wisdom",
+          "ipa": "/ˈwɪzdəm/",
+          "partOfSpeech": "n.",
+          "translation": "智慧"
+        },
+        {
+          "index": 82,
+          "word": "Worker",
+          "ipa": "/ˈwɜːrkər/",
+          "partOfSpeech": "n.",
+          "translation": "工人"
+        },
+        {
+          "index": 83,
+          "word": "Writer",
+          "ipa": "/ˈraɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "作家"
+        },
+        {
+          "index": 84,
+          "word": "Audience",
+          "ipa": "/ˈɔːdiəns/",
+          "partOfSpeech": "n.",
+          "translation": "观众"
+        },
+        {
+          "index": 85,
+          "word": "Author",
+          "ipa": "/ˈɔːθər/",
+          "partOfSpeech": "n.",
+          "translation": "作者"
+        },
+        {
+          "index": 86,
+          "word": "Balance",
+          "ipa": "/ˈbæləns/",
+          "partOfSpeech": "n.",
+          "translation": "平衡"
+        },
+        {
+          "index": 87,
+          "word": "Behavior",
+          "ipa": "/bɪˈheɪvjər/",
+          "partOfSpeech": "n.",
+          "translation": "行为"
+        },
+        {
+          "index": 88,
+          "word": "Budget",
+          "ipa": "/ˈbʌdʒɪt/",
+          "partOfSpeech": "n.",
+          "translation": "预算"
+        },
+        {
+          "index": 89,
+          "word": "Career",
+          "ipa": "/kəˈrɪr/",
+          "partOfSpeech": "n.",
+          "translation": "职业"
+        },
+        {
+          "index": 90,
+          "word": "Climate",
+          "ipa": "/ˈklaɪmət/",
+          "partOfSpeech": "n.",
+          "translation": "气候"
+        },
+        {
+          "index": 91,
+          "word": "Company",
+          "ipa": "/ˈkʌmpəni/",
+          "partOfSpeech": "n.",
+          "translation": "公司"
+        },
+        {
+          "index": 92,
+          "word": "Conflict",
+          "ipa": "/ˈkɑːnflɪkt/",
+          "partOfSpeech": "n.",
+          "translation": "冲突"
+        },
+        {
+          "index": 93,
+          "word": "Connection",
+          "ipa": "/kəˈnekʃn/",
+          "partOfSpeech": "n.",
+          "translation": "联系"
+        },
+        {
+          "index": 94,
+          "word": "Conversation",
+          "ipa": "/ˌkɑːnvərˈseɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "对话"
+        },
+        {
+          "index": 95,
+          "word": "Development",
+          "ipa": "/dɪˈveləpmənt/",
+          "partOfSpeech": "n.",
+          "translation": "发展"
+        },
+        {
+          "index": 96,
+          "word": "Direction",
+          "ipa": "/dəˈrekʃn/",
+          "partOfSpeech": "n.",
+          "translation": "方向"
+        },
+        {
+          "index": 97,
+          "word": "Discipline",
+          "ipa": "/ˈdɪsəplɪn/",
+          "partOfSpeech": "n.",
+          "translation": "纪律"
+        }
+      ]
+    },
+    {
+      "title": "二、动词（Useful Action Verbs for Daily English Conversations）",
+      "words": [
+        {
+          "index": 98,
+          "word": "Accept",
+          "ipa": "/əkˈsept/",
+          "partOfSpeech": "v.",
+          "translation": "接受"
+        },
+        {
+          "index": 99,
+          "word": "Achieve",
+          "ipa": "/əˈtʃiːv/",
+          "partOfSpeech": "v.",
+          "translation": "实现"
+        },
+        {
+          "index": 100,
+          "word": "Admire",
+          "ipa": "/ədˈmaɪər/",
+          "partOfSpeech": "v.",
+          "translation": "钦佩"
+        },
+        {
+          "index": 101,
+          "word": "Advise",
+          "ipa": "/ədˈvaɪz/",
+          "partOfSpeech": "v.",
+          "translation": "建议"
+        },
+        {
+          "index": 102,
+          "word": "Agree",
+          "ipa": "/əˈɡriː/",
+          "partOfSpeech": "v.",
+          "translation": "同意"
+        },
+        {
+          "index": 103,
+          "word": "Announce",
+          "ipa": "/əˈnaʊns/",
+          "partOfSpeech": "v.",
+          "translation": "宣布"
+        },
+        {
+          "index": 104,
+          "word": "Apologize",
+          "ipa": "/əˈpɑːlədʒaɪz/",
+          "partOfSpeech": "v.",
+          "translation": "道歉"
+        },
+        {
+          "index": 105,
+          "word": "Apply",
+          "ipa": "/əˈplaɪ/",
+          "partOfSpeech": "v.",
+          "translation": "申请"
+        },
+        {
+          "index": 106,
+          "word": "Appreciate",
+          "ipa": "/əˈpriːʃieɪt/",
+          "partOfSpeech": "v.",
+          "translation": "欣赏，感激"
+        },
+        {
+          "index": 107,
+          "word": "Argue",
+          "ipa": "/ˈɑːrɡjuː/",
+          "partOfSpeech": "v.",
+          "translation": "争论"
+        },
+        {
+          "index": 108,
+          "word": "Arrange",
+          "ipa": "/əˈreɪndʒ/",
+          "partOfSpeech": "v.",
+          "translation": "安排"
+        },
+        {
+          "index": 109,
+          "word": "Arrive",
+          "ipa": "/əˈraɪv/",
+          "partOfSpeech": "v.",
+          "translation": "到达"
+        },
+        {
+          "index": 110,
+          "word": "Assume",
+          "ipa": "/əˈsuːm/",
+          "partOfSpeech": "v.",
+          "translation": "假定"
+        },
+        {
+          "index": 111,
+          "word": "Avoid",
+          "ipa": "/əˈvɔɪd/",
+          "partOfSpeech": "v.",
+          "translation": "避免"
+        },
+        {
+          "index": 112,
+          "word": "Behave",
+          "ipa": "/bɪˈheɪv/",
+          "partOfSpeech": "v.",
+          "translation": "表现"
+        },
+        {
+          "index": 113,
+          "word": "Believe",
+          "ipa": "/bɪˈliːv/",
+          "partOfSpeech": "v.",
+          "translation": "相信"
+        },
+        {
+          "index": 114,
+          "word": "Borrow",
+          "ipa": "/ˈbɑːroʊ/",
+          "partOfSpeech": "v.",
+          "translation": "借入"
+        },
+        {
+          "index": 115,
+          "word": "Break",
+          "ipa": "/breɪk/",
+          "partOfSpeech": "v.",
+          "translation": "打破"
+        },
+        {
+          "index": 116,
+          "word": "Build",
+          "ipa": "/bɪld/",
+          "partOfSpeech": "v.",
+          "translation": "建造"
+        },
+        {
+          "index": 117,
+          "word": "Buy",
+          "ipa": "/baɪ/",
+          "partOfSpeech": "v.",
+          "translation": "购买"
+        },
+        {
+          "index": 118,
+          "word": "Call",
+          "ipa": "/kɔːl/",
+          "partOfSpeech": "v.",
+          "translation": "打电话"
+        },
+        {
+          "index": 119,
+          "word": "Care",
+          "ipa": "/ker/",
+          "partOfSpeech": "v.",
+          "translation": "关心"
+        },
+        {
+          "index": 120,
+          "word": "Carry",
+          "ipa": "/ˈkæri/",
+          "partOfSpeech": "v.",
+          "translation": "携带"
+        },
+        {
+          "index": 121,
+          "word": "Change",
+          "ipa": "/tʃeɪndʒ/",
+          "partOfSpeech": "v.",
+          "translation": "改变"
+        },
+        {
+          "index": 122,
+          "word": "Choose",
+          "ipa": "/tʃuːz/",
+          "partOfSpeech": "v.",
+          "translation": "选择"
+        },
+        {
+          "index": 123,
+          "word": "Clean",
+          "ipa": "/kliːn/",
+          "partOfSpeech": "v.",
+          "translation": "打扫"
+        },
+        {
+          "index": 124,
+          "word": "Climb",
+          "ipa": "/klaɪm/",
+          "partOfSpeech": "v.",
+          "translation": "攀登"
+        },
+        {
+          "index": 125,
+          "word": "Collect",
+          "ipa": "/kəˈlekt/",
+          "partOfSpeech": "v.",
+          "translation": "收集"
+        },
+        {
+          "index": 126,
+          "word": "Complain",
+          "ipa": "/kəmˈpleɪn/",
+          "partOfSpeech": "v.",
+          "translation": "抱怨"
+        },
+        {
+          "index": 127,
+          "word": "Complete",
+          "ipa": "/kəmˈpliːt/",
+          "partOfSpeech": "v.",
+          "translation": "完成"
+        },
+        {
+          "index": 128,
+          "word": "Confirm",
+          "ipa": "/kənˈfɜːrm/",
+          "partOfSpeech": "v.",
+          "translation": "确认"
+        },
+        {
+          "index": 129,
+          "word": "Connect",
+          "ipa": "/kəˈnekt/",
+          "partOfSpeech": "v.",
+          "translation": "连接"
+        },
+        {
+          "index": 130,
+          "word": "Consider",
+          "ipa": "/kənˈsɪdər/",
+          "partOfSpeech": "v.",
+          "translation": "考虑"
+        },
+        {
+          "index": 131,
+          "word": "Continue",
+          "ipa": "/kənˈtɪnjuː/",
+          "partOfSpeech": "v.",
+          "translation": "继续"
+        },
+        {
+          "index": 132,
+          "word": "Contribute",
+          "ipa": "/kənˈtrɪbjuːt/",
+          "partOfSpeech": "v.",
+          "translation": "贡献"
+        },
+        {
+          "index": 133,
+          "word": "Control",
+          "ipa": "/kənˈtroʊl/",
+          "partOfSpeech": "v.",
+          "translation": "控制"
+        },
+        {
+          "index": 134,
+          "word": "Cook",
+          "ipa": "/kʊk/",
+          "partOfSpeech": "v.",
+          "translation": "烹饪"
+        },
+        {
+          "index": 135,
+          "word": "Correct",
+          "ipa": "/kəˈrekt/",
+          "partOfSpeech": "v.",
+          "translation": "纠正"
+        },
+        {
+          "index": 136,
+          "word": "Count",
+          "ipa": "/kaʊnt/",
+          "partOfSpeech": "v.",
+          "translation": "数数"
+        },
+        {
+          "index": 137,
+          "word": "Create",
+          "ipa": "/kriˈeɪt/",
+          "partOfSpeech": "v.",
+          "translation": "创造"
+        },
+        {
+          "index": 138,
+          "word": "Cut",
+          "ipa": "/kʌt/",
+          "partOfSpeech": "v.",
+          "translation": "切"
+        },
+        {
+          "index": 139,
+          "word": "Decide",
+          "ipa": "/dɪˈsaɪd/",
+          "partOfSpeech": "v.",
+          "translation": "决定"
+        },
+        {
+          "index": 140,
+          "word": "Deliver",
+          "ipa": "/dɪˈlɪvər/",
+          "partOfSpeech": "v.",
+          "translation": "递送"
+        },
+        {
+          "index": 141,
+          "word": "Depend",
+          "ipa": "/dɪˈpend/",
+          "partOfSpeech": "v.",
+          "translation": "依赖"
+        },
+        {
+          "index": 142,
+          "word": "Describe",
+          "ipa": "/dɪˈskraɪb/",
+          "partOfSpeech": "v.",
+          "translation": "描述"
+        },
+        {
+          "index": 143,
+          "word": "Develop",
+          "ipa": "/dɪˈveləp/",
+          "partOfSpeech": "v.",
+          "translation": "发展"
+        },
+        {
+          "index": 144,
+          "word": "Discuss",
+          "ipa": "/dɪˈskʌs/",
+          "partOfSpeech": "v.",
+          "translation": "讨论"
+        },
+        {
+          "index": 145,
+          "word": "Discover",
+          "ipa": "/dɪˈskʌvər/",
+          "partOfSpeech": "v.",
+          "translation": "发现"
+        },
+        {
+          "index": 146,
+          "word": "Display",
+          "ipa": "/dɪˈspleɪ/",
+          "partOfSpeech": "v.",
+          "translation": "展示"
+        },
+        {
+          "index": 147,
+          "word": "Drive",
+          "ipa": "/draɪv/",
+          "partOfSpeech": "v.",
+          "translation": "驾驶"
+        },
+        {
+          "index": 148,
+          "word": "Earn",
+          "ipa": "/ɜːrn/",
+          "partOfSpeech": "v.",
+          "translation": "赚取"
+        },
+        {
+          "index": 149,
+          "word": "Encourage",
+          "ipa": "/ɪnˈkɜːrɪdʒ/",
+          "partOfSpeech": "v.",
+          "translation": "鼓励"
+        },
+        {
+          "index": 150,
+          "word": "Enjoy",
+          "ipa": "/ɪnˈdʒɔɪ/",
+          "partOfSpeech": "v.",
+          "translation": "享受"
+        },
+        {
+          "index": 151,
+          "word": "Enter",
+          "ipa": "/ˈentər/",
+          "partOfSpeech": "v.",
+          "translation": "进入"
+        },
+        {
+          "index": 152,
+          "word": "Escape",
+          "ipa": "/ɪˈskeɪp/",
+          "partOfSpeech": "v.",
+          "translation": "逃跑"
+        },
+        {
+          "index": 153,
+          "word": "Explain",
+          "ipa": "/ɪkˈspleɪn/",
+          "partOfSpeech": "v.",
+          "translation": "解释"
+        },
+        {
+          "index": 154,
+          "word": "Express",
+          "ipa": "/ɪkˈspres/",
+          "partOfSpeech": "v.",
+          "translation": "表达"
+        },
+        {
+          "index": 155,
+          "word": "Fail",
+          "ipa": "/feɪl/",
+          "partOfSpeech": "v.",
+          "translation": "失败"
+        },
+        {
+          "index": 156,
+          "word": "Fall",
+          "ipa": "/fɔːl/",
+          "partOfSpeech": "v.",
+          "translation": "落下"
+        },
+        {
+          "index": 157,
+          "word": "Feed",
+          "ipa": "/fiːd/",
+          "partOfSpeech": "v.",
+          "translation": "喂食"
+        },
+        {
+          "index": 158,
+          "word": "Feel",
+          "ipa": "/fiːl/",
+          "partOfSpeech": "v.",
+          "translation": "感觉"
+        },
+        {
+          "index": 159,
+          "word": "Fight",
+          "ipa": "/faɪt/",
+          "partOfSpeech": "v.",
+          "translation": "打架"
+        },
+        {
+          "index": 160,
+          "word": "Find",
+          "ipa": "/faɪnd/",
+          "partOfSpeech": "v.",
+          "translation": "找到"
+        },
+        {
+          "index": 161,
+          "word": "Fix",
+          "ipa": "/fɪks/",
+          "partOfSpeech": "v.",
+          "translation": "修理"
+        },
+        {
+          "index": 162,
+          "word": "Follow",
+          "ipa": "/ˈfɑːloʊ/",
+          "partOfSpeech": "v.",
+          "translation": "跟随"
+        },
+        {
+          "index": 163,
+          "word": "Forget",
+          "ipa": "/fərˈɡet/",
+          "partOfSpeech": "v.",
+          "translation": "忘记"
+        },
+        {
+          "index": 164,
+          "word": "Forgive",
+          "ipa": "/fərˈɡɪv/",
+          "partOfSpeech": "v.",
+          "translation": "原谅"
+        },
+        {
+          "index": 165,
+          "word": "Get",
+          "ipa": "/ɡet/",
+          "partOfSpeech": "v.",
+          "translation": "获得"
+        },
+        {
+          "index": 166,
+          "word": "Give",
+          "ipa": "/ɡɪv/",
+          "partOfSpeech": "v.",
+          "translation": "给予"
+        },
+        {
+          "index": 167,
+          "word": "Go",
+          "ipa": "/ɡoʊ/",
+          "partOfSpeech": "v.",
+          "translation": "去"
+        },
+        {
+          "index": 168,
+          "word": "Grow",
+          "ipa": "/ɡroʊ/",
+          "partOfSpeech": "v.",
+          "translation": "生长"
+        },
+        {
+          "index": 169,
+          "word": "Guess",
+          "ipa": "/ɡes/",
+          "partOfSpeech": "v.",
+          "translation": "猜测"
+        },
+        {
+          "index": 170,
+          "word": "Happen",
+          "ipa": "/ˈhæpən/",
+          "partOfSpeech": "v.",
+          "translation": "发生"
+        },
+        {
+          "index": 171,
+          "word": "Hear",
+          "ipa": "/hɪr/",
+          "partOfSpeech": "v.",
+          "translation": "听见"
+        },
+        {
+          "index": 172,
+          "word": "Help",
+          "ipa": "/help/",
+          "partOfSpeech": "v.",
+          "translation": "帮助"
+        },
+        {
+          "index": 173,
+          "word": "Hold",
+          "ipa": "/hoʊld/",
+          "partOfSpeech": "v.",
+          "translation": "握住"
+        },
+        {
+          "index": 174,
+          "word": "Hope",
+          "ipa": "/hoʊp/",
+          "partOfSpeech": "v.",
+          "translation": "希望"
+        },
+        {
+          "index": 175,
+          "word": "Improve",
+          "ipa": "/ɪmˈpruːv/",
+          "partOfSpeech": "v.",
+          "translation": "改进"
+        },
+        {
+          "index": 176,
+          "word": "Include",
+          "ipa": "/ɪnˈkluːd/",
+          "partOfSpeech": "v.",
+          "translation": "包括"
+        },
+        {
+          "index": 177,
+          "word": "Invite",
+          "ipa": "/ɪnˈvaɪt/",
+          "partOfSpeech": "v.",
+          "translation": "邀请"
+        },
+        {
+          "index": 178,
+          "word": "Join",
+          "ipa": "/dʒɔɪn/",
+          "partOfSpeech": "v.",
+          "translation": "加入"
+        },
+        {
+          "index": 179,
+          "word": "Keep",
+          "ipa": "/kiːp/",
+          "partOfSpeech": "v.",
+          "translation": "保持"
+        },
+        {
+          "index": 180,
+          "word": "Know",
+          "ipa": "/noʊ/",
+          "partOfSpeech": "v.",
+          "translation": "知道"
+        },
+        {
+          "index": 181,
+          "word": "Laugh",
+          "ipa": "/læf/",
+          "partOfSpeech": "v.",
+          "translation": "笑"
+        },
+        {
+          "index": 182,
+          "word": "Learn",
+          "ipa": "/lɜːrn/",
+          "partOfSpeech": "v.",
+          "translation": "学习"
+        },
+        {
+          "index": 183,
+          "word": "Leave",
+          "ipa": "/liːv/",
+          "partOfSpeech": "v.",
+          "translation": "离开"
+        },
+        {
+          "index": 184,
+          "word": "Lend",
+          "ipa": "/lend/",
+          "partOfSpeech": "v.",
+          "translation": "借出"
+        },
+        {
+          "index": 185,
+          "word": "Lie",
+          "ipa": "/laɪ/",
+          "partOfSpeech": "v.",
+          "translation": "说谎"
+        },
+        {
+          "index": 186,
+          "word": "Listen",
+          "ipa": "/ˈlɪsn/",
+          "partOfSpeech": "v.",
+          "translation": "听"
+        },
+        {
+          "index": 187,
+          "word": "Live",
+          "ipa": "/lɪv/",
+          "partOfSpeech": "v.",
+          "translation": "生活"
+        },
+        {
+          "index": 188,
+          "word": "Look",
+          "ipa": "/lʊk/",
+          "partOfSpeech": "v.",
+          "translation": "看"
+        },
+        {
+          "index": 189,
+          "word": "Lose",
+          "ipa": "/luːz/",
+          "partOfSpeech": "v.",
+          "translation": "失去"
+        },
+        {
+          "index": 190,
+          "word": "Love",
+          "ipa": "/lʌv/",
+          "partOfSpeech": "v.",
+          "translation": "爱"
+        },
+        {
+          "index": 191,
+          "word": "Make",
+          "ipa": "/meɪk/",
+          "partOfSpeech": "v.",
+          "translation": "制作"
+        },
+        {
+          "index": 192,
+          "word": "Manage",
+          "ipa": "/ˈmænɪdʒ/",
+          "partOfSpeech": "v.",
+          "translation": "管理"
+        },
+        {
+          "index": 193,
+          "word": "Move",
+          "ipa": "/muːv/",
+          "partOfSpeech": "v.",
+          "translation": "移动"
+        },
+        {
+          "index": 194,
+          "word": "Need",
+          "ipa": "/niːd/",
+          "partOfSpeech": "v.",
+          "translation": "需要"
+        },
+        {
+          "index": 195,
+          "word": "Offer",
+          "ipa": "/ˈɔːfər/",
+          "partOfSpeech": "v.",
+          "translation": "提供"
+        },
+        {
+          "index": 196,
+          "word": "Open",
+          "ipa": "/ˈoʊpən/",
+          "partOfSpeech": "v.",
+          "translation": "打开"
+        },
+        {
+          "index": 197,
+          "word": "Organize",
+          "ipa": "/ˈɔːrɡənaɪz/",
+          "partOfSpeech": "v.",
+          "translation": "组织"
+        }
+      ]
+    },
+    {
+      "title": "三、形容词（Descriptive Adjectives to Improve Your English Vocabulary）",
+      "words": [
+        {
+          "index": 198,
+          "word": "Accurate",
+          "ipa": "/ˈækjərət/",
+          "partOfSpeech": "adj.",
+          "translation": "准确的"
+        },
+        {
+          "index": 199,
+          "word": "Active",
+          "ipa": "/ˈæktɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "活跃的"
+        },
+        {
+          "index": 200,
+          "word": "Adventurous",
+          "ipa": "/ədˈventʃərəs/",
+          "partOfSpeech": "adj.",
+          "translation": "爱冒险的"
+        },
+        {
+          "index": 201,
+          "word": "Ambitious",
+          "ipa": "/æmˈbɪʃəs/",
+          "partOfSpeech": "adj.",
+          "translation": "有雄心的"
+        },
+        {
+          "index": 202,
+          "word": "Ancient",
+          "ipa": "/ˈeɪnʃənt/",
+          "partOfSpeech": "adj.",
+          "translation": "古老的"
+        },
+        {
+          "index": 203,
+          "word": "Angry",
+          "ipa": "/ˈæŋɡri/",
+          "partOfSpeech": "adj.",
+          "translation": "生气的"
+        },
+        {
+          "index": 204,
+          "word": "Anxious",
+          "ipa": "/ˈæŋkʃəs/",
+          "partOfSpeech": "adj.",
+          "translation": "焦虑的"
+        },
+        {
+          "index": 205,
+          "word": "Attractive",
+          "ipa": "/əˈtræktɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "有吸引力的"
+        },
+        {
+          "index": 206,
+          "word": "Available",
+          "ipa": "/əˈveɪləbl/",
+          "partOfSpeech": "adj.",
+          "translation": "可获得的"
+        },
+        {
+          "index": 207,
+          "word": "Aware",
+          "ipa": "/əˈwer/",
+          "partOfSpeech": "adj.",
+          "translation": "意识到的"
+        },
+        {
+          "index": 208,
+          "word": "Beautiful",
+          "ipa": "/ˈbjuːtɪfl/",
+          "partOfSpeech": "adj.",
+          "translation": "美丽的"
+        },
+        {
+          "index": 209,
+          "word": "Bitter",
+          "ipa": "/ˈbɪtər/",
+          "partOfSpeech": "adj.",
+          "translation": "苦的"
+        },
+        {
+          "index": 210,
+          "word": "Brave",
+          "ipa": "/breɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "勇敢的"
+        },
+        {
+          "index": 211,
+          "word": "Bright",
+          "ipa": "/braɪt/",
+          "partOfSpeech": "adj.",
+          "translation": "明亮的"
+        },
+        {
+          "index": 212,
+          "word": "Broad",
+          "ipa": "/brɔːd/",
+          "partOfSpeech": "adj.",
+          "translation": "宽阔的"
+        },
+        {
+          "index": 213,
+          "word": "Calm",
+          "ipa": "/kɑːm/",
+          "partOfSpeech": "adj.",
+          "translation": "平静的"
+        },
+        {
+          "index": 214,
+          "word": "Careful",
+          "ipa": "/ˈkerfl/",
+          "partOfSpeech": "adj.",
+          "translation": "小心的"
+        },
+        {
+          "index": 215,
+          "word": "Certain",
+          "ipa": "/ˈsɜːrtn/",
+          "partOfSpeech": "adj.",
+          "translation": "确定的"
+        },
+        {
+          "index": 216,
+          "word": "Charming",
+          "ipa": "/ˈtʃɑːrmɪŋ/",
+          "partOfSpeech": "adj.",
+          "translation": "迷人的"
+        },
+        {
+          "index": 217,
+          "word": "Cheerful",
+          "ipa": "/ˈtʃɪrfl/",
+          "partOfSpeech": "adj.",
+          "translation": "快乐的"
+        },
+        {
+          "index": 218,
+          "word": "Clean",
+          "ipa": "/kliːn/",
+          "partOfSpeech": "adj.",
+          "translation": "干净的"
+        },
+        {
+          "index": 219,
+          "word": "Clear",
+          "ipa": "/klɪr/",
+          "partOfSpeech": "adj.",
+          "translation": "清晰的"
+        },
+        {
+          "index": 220,
+          "word": "Clever",
+          "ipa": "/ˈklevər/",
+          "partOfSpeech": "adj.",
+          "translation": "聪明的"
+        },
+        {
+          "index": 221,
+          "word": "Cold",
+          "ipa": "/koʊld/",
+          "partOfSpeech": "adj.",
+          "translation": "冷的"
+        },
+        {
+          "index": 222,
+          "word": "Comfortable",
+          "ipa": "/ˈkʌmftəbl/",
+          "partOfSpeech": "adj.",
+          "translation": "舒适的"
+        },
+        {
+          "index": 223,
+          "word": "Common",
+          "ipa": "/ˈkɑːmən/",
+          "partOfSpeech": "adj.",
+          "translation": "常见的"
+        },
+        {
+          "index": 224,
+          "word": "Complex",
+          "ipa": "/kəmˈpleks/",
+          "partOfSpeech": "adj.",
+          "translation": "复杂的"
+        },
+        {
+          "index": 225,
+          "word": "Confident",
+          "ipa": "/ˈkɑːnfɪdənt/",
+          "partOfSpeech": "adj.",
+          "translation": "自信的"
+        },
+        {
+          "index": 226,
+          "word": "Confusing",
+          "ipa": "/kənˈfjuːzɪŋ/",
+          "partOfSpeech": "adj.",
+          "translation": "令人困惑的"
+        },
+        {
+          "index": 227,
+          "word": "Cool",
+          "ipa": "/kuːl/",
+          "partOfSpeech": "adj.",
+          "translation": "凉爽的"
+        },
+        {
+          "index": 228,
+          "word": "Correct",
+          "ipa": "/kəˈrekt/",
+          "partOfSpeech": "adj.",
+          "translation": "正确的"
+        },
+        {
+          "index": 229,
+          "word": "Creative",
+          "ipa": "/kriˈeɪtɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "有创造力的"
+        },
+        {
+          "index": 230,
+          "word": "Cruel",
+          "ipa": "/ˈkruːəl/",
+          "partOfSpeech": "adj.",
+          "translation": "残酷的"
+        },
+        {
+          "index": 231,
+          "word": "Curious",
+          "ipa": "/ˈkjʊriəs/",
+          "partOfSpeech": "adj.",
+          "translation": "好奇的"
+        },
+        {
+          "index": 232,
+          "word": "Dangerous",
+          "ipa": "/ˈdeɪndʒərəs/",
+          "partOfSpeech": "adj.",
+          "translation": "危险的"
+        },
+        {
+          "index": 233,
+          "word": "Delicious",
+          "ipa": "/dɪˈlɪʃəs/",
+          "partOfSpeech": "adj.",
+          "translation": "美味的"
+        },
+        {
+          "index": 234,
+          "word": "Dependent",
+          "ipa": "/dɪˈpendənt/",
+          "partOfSpeech": "adj.",
+          "translation": "依赖的"
+        },
+        {
+          "index": 235,
+          "word": "Difficult",
+          "ipa": "/ˈdɪfɪkəlt/",
+          "partOfSpeech": "adj.",
+          "translation": "困难的"
+        },
+        {
+          "index": 236,
+          "word": "Dirty",
+          "ipa": "/ˈdɜːrti/",
+          "partOfSpeech": "adj.",
+          "translation": "脏的"
+        },
+        {
+          "index": 237,
+          "word": "Distant",
+          "ipa": "/ˈdɪstənt/",
+          "partOfSpeech": "adj.",
+          "translation": "遥远的"
+        },
+        {
+          "index": 238,
+          "word": "Diverse",
+          "ipa": "/daɪˈvɜːrs/",
+          "partOfSpeech": "adj.",
+          "translation": "多样的"
+        },
+        {
+          "index": 239,
+          "word": "Double",
+          "ipa": "/ˈdʌbl/",
+          "partOfSpeech": "adj.",
+          "translation": "双倍的"
+        },
+        {
+          "index": 240,
+          "word": "Dramatic",
+          "ipa": "/drəˈmætɪk/",
+          "partOfSpeech": "adj.",
+          "translation": "戏剧性的"
+        },
+        {
+          "index": 241,
+          "word": "Eager",
+          "ipa": "/ˈiːɡər/",
+          "partOfSpeech": "adj.",
+          "translation": "渴望的"
+        },
+        {
+          "index": 242,
+          "word": "Easy",
+          "ipa": "/ˈiːzi/",
+          "partOfSpeech": "adj.",
+          "translation": "容易的"
+        },
+        {
+          "index": 243,
+          "word": "Educated",
+          "ipa": "/ˈedʒukeɪtɪd/",
+          "partOfSpeech": "adj.",
+          "translation": "受过教育的"
+        },
+        {
+          "index": 244,
+          "word": "Effective",
+          "ipa": "/ɪˈfektɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "有效的"
+        },
+        {
+          "index": 245,
+          "word": "Efficient",
+          "ipa": "/ɪˈfɪʃnt/",
+          "partOfSpeech": "adj.",
+          "translation": "高效的"
+        },
+        {
+          "index": 246,
+          "word": "Emotional",
+          "ipa": "/ɪˈmoʊʃənl/",
+          "partOfSpeech": "adj.",
+          "translation": "情绪化的"
+        },
+        {
+          "index": 247,
+          "word": "Empty",
+          "ipa": "/ˈempti/",
+          "partOfSpeech": "adj.",
+          "translation": "空的"
+        },
+        {
+          "index": 248,
+          "word": "Equal",
+          "ipa": "/ˈiːkwəl/",
+          "partOfSpeech": "adj.",
+          "translation": "平等的"
+        },
+        {
+          "index": 249,
+          "word": "Essential",
+          "ipa": "/ɪˈsenʃl/",
+          "partOfSpeech": "adj.",
+          "translation": "必要的"
+        },
+        {
+          "index": 250,
+          "word": "Excellent",
+          "ipa": "/ˈeksələnt/",
+          "partOfSpeech": "adj.",
+          "translation": "极好的"
+        },
+        {
+          "index": 251,
+          "word": "Expensive",
+          "ipa": "/ɪkˈspensɪv/",
+          "partOfSpeech": "adj.",
+          "translation": "昂贵的"
+        },
+        {
+          "index": 252,
+          "word": "Famous",
+          "ipa": "/ˈfeɪməs/",
+          "partOfSpeech": "adj.",
+          "translation": "著名的"
+        },
+        {
+          "index": 253,
+          "word": "Fantastic",
+          "ipa": "/fænˈtæstɪk/",
+          "partOfSpeech": "adj.",
+          "translation": "极好的"
+        },
+        {
+          "index": 254,
+          "word": "Fast",
+          "ipa": "/fæst/",
+          "partOfSpeech": "adj.",
+          "translation": "快速的"
+        },
+        {
+          "index": 255,
+          "word": "Fearless",
+          "ipa": "/ˈfɪrləs/",
+          "partOfSpeech": "adj.",
+          "translation": "无畏的"
+        },
+        {
+          "index": 256,
+          "word": "Fine",
+          "ipa": "/faɪn/",
+          "partOfSpeech": "adj.",
+          "translation": "好的"
+        },
+        {
+          "index": 257,
+          "word": "Flat",
+          "ipa": "/flæt/",
+          "partOfSpeech": "adj.",
+          "translation": "平坦的"
+        },
+        {
+          "index": 258,
+          "word": "Flexible",
+          "ipa": "/ˈfleksəbl/",
+          "partOfSpeech": "adj.",
+          "translation": "灵活的"
+        },
+        {
+          "index": 259,
+          "word": "Friendly",
+          "ipa": "/ˈfrendli/",
+          "partOfSpeech": "adj.",
+          "translation": "友好的"
+        },
+        {
+          "index": 260,
+          "word": "Funny",
+          "ipa": "/ˈfʌni/",
+          "partOfSpeech": "adj.",
+          "translation": "有趣的"
+        },
+        {
+          "index": 261,
+          "word": "Generous",
+          "ipa": "/ˈdʒenərəs/",
+          "partOfSpeech": "adj.",
+          "translation": "慷慨的"
+        },
+        {
+          "index": 262,
+          "word": "Gentle",
+          "ipa": "/ˈdʒentl/",
+          "partOfSpeech": "adj.",
+          "translation": "温和的"
+        },
+        {
+          "index": 263,
+          "word": "Glad",
+          "ipa": "/ɡlæd/",
+          "partOfSpeech": "adj.",
+          "translation": "高兴的"
+        },
+        {
+          "index": 264,
+          "word": "Global",
+          "ipa": "/ˈɡloʊbl/",
+          "partOfSpeech": "adj.",
+          "translation": "全球的"
+        },
+        {
+          "index": 265,
+          "word": "Great",
+          "ipa": "/ɡreɪt/",
+          "partOfSpeech": "adj.",
+          "translation": "伟大的"
+        },
+        {
+          "index": 266,
+          "word": "Happy",
+          "ipa": "/ˈhæpi/",
+          "partOfSpeech": "adj.",
+          "translation": "快乐的"
+        },
+        {
+          "index": 267,
+          "word": "Healthy",
+          "ipa": "/ˈhelθi/",
+          "partOfSpeech": "adj.",
+          "translation": "健康的"
+        },
+        {
+          "index": 268,
+          "word": "Helpful",
+          "ipa": "/ˈhelpfl/",
+          "partOfSpeech": "adj.",
+          "translation": "有帮助的"
+        },
+        {
+          "index": 269,
+          "word": "Honest",
+          "ipa": "/ˈɑːnɪst/",
+          "partOfSpeech": "adj.",
+          "translation": "诚实的"
+        },
+        {
+          "index": 270,
+          "word": "Hopeful",
+          "ipa": "/ˈhoʊpfl/",
+          "partOfSpeech": "adj.",
+          "translation": "有希望的"
+        },
+        {
+          "index": 271,
+          "word": "Hot",
+          "ipa": "/hɑːt/",
+          "partOfSpeech": "adj.",
+          "translation": "热的"
+        },
+        {
+          "index": 272,
+          "word": "Huge",
+          "ipa": "/hjuːdʒ/",
+          "partOfSpeech": "adj.",
+          "translation": "巨大的"
+        },
+        {
+          "index": 273,
+          "word": "Hungry",
+          "ipa": "/ˈhʌŋɡri/",
+          "partOfSpeech": "adj.",
+          "translation": "饥饿的"
+        },
+        {
+          "index": 274,
+          "word": "Important",
+          "ipa": "/ɪmˈpɔːrtnt/",
+          "partOfSpeech": "adj.",
+          "translation": "重要的"
+        },
+        {
+          "index": 275,
+          "word": "Independent",
+          "ipa": "/ˌɪndɪˈpendənt/",
+          "partOfSpeech": "adj.",
+          "translation": "独立的"
+        },
+        {
+          "index": 276,
+          "word": "Interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "partOfSpeech": "adj.",
+          "translation": "有趣的"
+        },
+        {
+          "index": 277,
+          "word": "Kind",
+          "ipa": "/kaɪnd/",
+          "partOfSpeech": "adj.",
+          "translation": "善良的"
+        },
+        {
+          "index": 278,
+          "word": "Lazy",
+          "ipa": "/ˈleɪzi/",
+          "partOfSpeech": "adj.",
+          "translation": "懒惰的"
+        },
+        {
+          "index": 279,
+          "word": "Light",
+          "ipa": "/laɪt/",
+          "partOfSpeech": "adj.",
+          "translation": "轻的"
+        },
+        {
+          "index": 280,
+          "word": "Lonely",
+          "ipa": "/ˈloʊnli/",
+          "partOfSpeech": "adj.",
+          "translation": "孤独的"
+        },
+        {
+          "index": 281,
+          "word": "Lucky",
+          "ipa": "/ˈlʌki/",
+          "partOfSpeech": "adj.",
+          "translation": "幸运的"
+        },
+        {
+          "index": 282,
+          "word": "Modern",
+          "ipa": "/ˈmɑːdərn/",
+          "partOfSpeech": "adj.",
+          "translation": "现代的"
+        },
+        {
+          "index": 283,
+          "word": "Narrow",
+          "ipa": "/ˈnæroʊ/",
+          "partOfSpeech": "adj.",
+          "translation": "狭窄的"
+        },
+        {
+          "index": 284,
+          "word": "Natural",
+          "ipa": "/ˈnætʃrəl/",
+          "partOfSpeech": "adj.",
+          "translation": "自然的"
+        },
+        {
+          "index": 285,
+          "word": "Neat",
+          "ipa": "/niːt/",
+          "partOfSpeech": "adj.",
+          "translation": "整洁的"
+        },
+        {
+          "index": 286,
+          "word": "Nervous",
+          "ipa": "/ˈnɜːrvəs/",
+          "partOfSpeech": "adj.",
+          "translation": "紧张的"
+        },
+        {
+          "index": 287,
+          "word": "Noisy",
+          "ipa": "/ˈnɔɪzi/",
+          "partOfSpeech": "adj.",
+          "translation": "嘈杂的"
+        },
+        {
+          "index": 288,
+          "word": "Normal",
+          "ipa": "/ˈnɔːrml/",
+          "partOfSpeech": "adj.",
+          "translation": "正常的"
+        },
+        {
+          "index": 289,
+          "word": "Open",
+          "ipa": "/ˈoʊpən/",
+          "partOfSpeech": "adj.",
+          "translation": "开着的"
+        },
+        {
+          "index": 290,
+          "word": "Patient",
+          "ipa": "/ˈpeɪʃnt/",
+          "partOfSpeech": "adj.",
+          "translation": "耐心的"
+        },
+        {
+          "index": 291,
+          "word": "Peaceful",
+          "ipa": "/ˈpiːsfl/",
+          "partOfSpeech": "adj.",
+          "translation": "和平的"
+        },
+        {
+          "index": 292,
+          "word": "Polite",
+          "ipa": "/pəˈlaɪt/",
+          "partOfSpeech": "adj.",
+          "translation": "有礼貌的"
+        },
+        {
+          "index": 293,
+          "word": "Poor",
+          "ipa": "/pʊr/",
+          "partOfSpeech": "adj.",
+          "translation": "贫穷的"
+        },
+        {
+          "index": 294,
+          "word": "Powerful",
+          "ipa": "/ˈpaʊərfl/",
+          "partOfSpeech": "adj.",
+          "translation": "强大的"
+        },
+        {
+          "index": 295,
+          "word": "Proud",
+          "ipa": "/praʊd/",
+          "partOfSpeech": "adj.",
+          "translation": "骄傲的"
+        },
+        {
+          "index": 296,
+          "word": "Quick",
+          "ipa": "/kwɪk/",
+          "partOfSpeech": "adj.",
+          "translation": "快速的"
+        },
+        {
+          "index": 297,
+          "word": "Quiet",
+          "ipa": "/ˈkwaɪət/",
+          "partOfSpeech": "adj.",
+          "translation": "安静的"
+        }
+      ]
+    },
+    {
+      "title": "四、副词和介词（Adverbs and Prepositions for Everyday English Use）",
+      "words": [
+        {
+          "index": 298,
+          "word": "Above",
+          "ipa": "/əˈbʌv/",
+          "partOfSpeech": "prep./adv.",
+          "translation": "在…之上"
+        },
+        {
+          "index": 299,
+          "word": "Across",
+          "ipa": "/əˈkrɔːs/",
+          "partOfSpeech": "prep.",
+          "translation": "穿过"
+        },
+        {
+          "index": 300,
+          "word": "After",
+          "ipa": "/ˈæftər/",
+          "partOfSpeech": "prep.",
+          "translation": "在…之后"
+        },
+        {
+          "index": 301,
+          "word": "Again",
+          "ipa": "/əˈɡen/",
+          "partOfSpeech": "adv.",
+          "translation": "再次"
+        },
+        {
+          "index": 302,
+          "word": "Almost",
+          "ipa": "/ˈɔːlmoʊst/",
+          "partOfSpeech": "adv.",
+          "translation": "几乎"
+        },
+        {
+          "index": 303,
+          "word": "Along",
+          "ipa": "/əˈlɔːŋ/",
+          "partOfSpeech": "prep.",
+          "translation": "沿着"
+        },
+        {
+          "index": 304,
+          "word": "Already",
+          "ipa": "/ɔːlˈredi/",
+          "partOfSpeech": "adv.",
+          "translation": "已经"
+        },
+        {
+          "index": 305,
+          "word": "Although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "partOfSpeech": "conj.",
+          "translation": "虽然"
+        },
+        {
+          "index": 306,
+          "word": "Among",
+          "ipa": "/əˈmʌŋ/",
+          "partOfSpeech": "prep.",
+          "translation": "在…之中"
+        },
+        {
+          "index": 307,
+          "word": "Around",
+          "ipa": "/əˈraʊnd/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "围绕"
+        },
+        {
+          "index": 308,
+          "word": "Aside",
+          "ipa": "/əˈsaɪd/",
+          "partOfSpeech": "adv.",
+          "translation": "在旁边"
+        },
+        {
+          "index": 309,
+          "word": "At",
+          "ipa": "/æt/",
+          "partOfSpeech": "prep.",
+          "translation": "在"
+        },
+        {
+          "index": 310,
+          "word": "Away",
+          "ipa": "/əˈweɪ/",
+          "partOfSpeech": "adv.",
+          "translation": "离开"
+        },
+        {
+          "index": 311,
+          "word": "Back",
+          "ipa": "/bæk/",
+          "partOfSpeech": "adv.",
+          "translation": "向后"
+        },
+        {
+          "index": 312,
+          "word": "Before",
+          "ipa": "/bɪˈfɔːr/",
+          "partOfSpeech": "prep.",
+          "translation": "在…之前"
+        },
+        {
+          "index": 313,
+          "word": "Behind",
+          "ipa": "/bɪˈhaɪnd/",
+          "partOfSpeech": "prep.",
+          "translation": "在…后面"
+        },
+        {
+          "index": 314,
+          "word": "Below",
+          "ipa": "/bɪˈloʊ/",
+          "partOfSpeech": "prep.",
+          "translation": "在…下面"
+        },
+        {
+          "index": 315,
+          "word": "Besides",
+          "ipa": "/bɪˈsaɪdz/",
+          "partOfSpeech": "prep.",
+          "translation": "除…之外"
+        },
+        {
+          "index": 316,
+          "word": "Between",
+          "ipa": "/bɪˈtwiːn/",
+          "partOfSpeech": "prep.",
+          "translation": "在…之间"
+        },
+        {
+          "index": 317,
+          "word": "Beyond",
+          "ipa": "/bɪˈjɑːnd/",
+          "partOfSpeech": "prep.",
+          "translation": "超出"
+        },
+        {
+          "index": 318,
+          "word": "Carefully",
+          "ipa": "/ˈkerfəli/",
+          "partOfSpeech": "adv.",
+          "translation": "小心地"
+        },
+        {
+          "index": 319,
+          "word": "Clearly",
+          "ipa": "/ˈklɪrli/",
+          "partOfSpeech": "adv.",
+          "translation": "清楚地"
+        },
+        {
+          "index": 320,
+          "word": "Completely",
+          "ipa": "/kəmˈpliːtli/",
+          "partOfSpeech": "adv.",
+          "translation": "完全地"
+        },
+        {
+          "index": 321,
+          "word": "Constantly",
+          "ipa": "/ˈkɑːnstəntli/",
+          "partOfSpeech": "adv.",
+          "translation": "不断地"
+        },
+        {
+          "index": 322,
+          "word": "Correctly",
+          "ipa": "/kəˈrektli/",
+          "partOfSpeech": "adv.",
+          "translation": "正确地"
+        },
+        {
+          "index": 323,
+          "word": "Currently",
+          "ipa": "/ˈkɜːrəntli/",
+          "partOfSpeech": "adv.",
+          "translation": "目前"
+        },
+        {
+          "index": 324,
+          "word": "Deeply",
+          "ipa": "/ˈdiːpli/",
+          "partOfSpeech": "adv.",
+          "translation": "深深地"
+        },
+        {
+          "index": 325,
+          "word": "Down",
+          "ipa": "/daʊn/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "向下"
+        },
+        {
+          "index": 326,
+          "word": "During",
+          "ipa": "/ˈdʊrɪŋ/",
+          "partOfSpeech": "prep.",
+          "translation": "在…期间"
+        },
+        {
+          "index": 327,
+          "word": "Easily",
+          "ipa": "/ˈiːzəli/",
+          "partOfSpeech": "adv.",
+          "translation": "容易地"
+        },
+        {
+          "index": 328,
+          "word": "Elsewhere",
+          "ipa": "/ˌelsˈwer/",
+          "partOfSpeech": "adv.",
+          "translation": "在别处"
+        },
+        {
+          "index": 329,
+          "word": "Especially",
+          "ipa": "/ɪˈspeʃəli/",
+          "partOfSpeech": "adv.",
+          "translation": "尤其"
+        },
+        {
+          "index": 330,
+          "word": "Even",
+          "ipa": "/ˈiːvn/",
+          "partOfSpeech": "adv.",
+          "translation": "甚至"
+        },
+        {
+          "index": 331,
+          "word": "Ever",
+          "ipa": "/ˈevər/",
+          "partOfSpeech": "adv.",
+          "translation": "曾经"
+        },
+        {
+          "index": 332,
+          "word": "Everywhere",
+          "ipa": "/ˈevriwer/",
+          "partOfSpeech": "adv.",
+          "translation": "到处"
+        },
+        {
+          "index": 333,
+          "word": "Exactly",
+          "ipa": "/ɪɡˈzæktli/",
+          "partOfSpeech": "adv.",
+          "translation": "确切地"
+        },
+        {
+          "index": 334,
+          "word": "Far",
+          "ipa": "/fɑːr/",
+          "partOfSpeech": "adv.",
+          "translation": "远"
+        },
+        {
+          "index": 335,
+          "word": "Fast",
+          "ipa": "/fæst/",
+          "partOfSpeech": "adv.",
+          "translation": "快速地"
+        },
+        {
+          "index": 336,
+          "word": "Finally",
+          "ipa": "/ˈfaɪnəli/",
+          "partOfSpeech": "adv.",
+          "translation": "最后"
+        },
+        {
+          "index": 337,
+          "word": "Forward",
+          "ipa": "/ˈfɔːrwərd/",
+          "partOfSpeech": "adv.",
+          "translation": "向前"
+        },
+        {
+          "index": 338,
+          "word": "Frequently",
+          "ipa": "/ˈfriːkwəntli/",
+          "partOfSpeech": "adv.",
+          "translation": "频繁地"
+        },
+        {
+          "index": 339,
+          "word": "Fully",
+          "ipa": "/ˈfʊli/",
+          "partOfSpeech": "adv.",
+          "translation": "完全地"
+        },
+        {
+          "index": 340,
+          "word": "Generally",
+          "ipa": "/ˈdʒenrəli/",
+          "partOfSpeech": "adv.",
+          "translation": "通常"
+        },
+        {
+          "index": 341,
+          "word": "Gently",
+          "ipa": "/ˈdʒentli/",
+          "partOfSpeech": "adv.",
+          "translation": "温柔地"
+        },
+        {
+          "index": 342,
+          "word": "Hardly",
+          "ipa": "/ˈhɑːrdli/",
+          "partOfSpeech": "adv.",
+          "translation": "几乎不"
+        },
+        {
+          "index": 343,
+          "word": "Here",
+          "ipa": "/hɪr/",
+          "partOfSpeech": "adv.",
+          "translation": "这里"
+        },
+        {
+          "index": 344,
+          "word": "However",
+          "ipa": "/haʊˈevər/",
+          "partOfSpeech": "adv.",
+          "translation": "然而"
+        },
+        {
+          "index": 345,
+          "word": "Immediately",
+          "ipa": "/ɪˈmiːdiətli/",
+          "partOfSpeech": "adv.",
+          "translation": "立即"
+        },
+        {
+          "index": 346,
+          "word": "Inside",
+          "ipa": "/ɪnˈsaɪd/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "在里面"
+        },
+        {
+          "index": 347,
+          "word": "Instead",
+          "ipa": "/ɪnˈsted/",
+          "partOfSpeech": "adv.",
+          "translation": "代替"
+        },
+        {
+          "index": 348,
+          "word": "Just",
+          "ipa": "/dʒʌst/",
+          "partOfSpeech": "adv.",
+          "translation": "刚刚"
+        },
+        {
+          "index": 349,
+          "word": "Late",
+          "ipa": "/leɪt/",
+          "partOfSpeech": "adv.",
+          "translation": "晚"
+        },
+        {
+          "index": 350,
+          "word": "Lately",
+          "ipa": "/ˈleɪtli/",
+          "partOfSpeech": "adv.",
+          "translation": "最近"
+        },
+        {
+          "index": 351,
+          "word": "Likely",
+          "ipa": "/ˈlaɪkli/",
+          "partOfSpeech": "adv.",
+          "translation": "很可能"
+        },
+        {
+          "index": 352,
+          "word": "Near",
+          "ipa": "/nɪr/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "靠近"
+        },
+        {
+          "index": 353,
+          "word": "Nearly",
+          "ipa": "/ˈnɪrli/",
+          "partOfSpeech": "adv.",
+          "translation": "几乎"
+        },
+        {
+          "index": 354,
+          "word": "Never",
+          "ipa": "/ˈnevər/",
+          "partOfSpeech": "adv.",
+          "translation": "从不"
+        },
+        {
+          "index": 355,
+          "word": "Next",
+          "ipa": "/nekst/",
+          "partOfSpeech": "adv.",
+          "translation": "接下来"
+        },
+        {
+          "index": 356,
+          "word": "Now",
+          "ipa": "/naʊ/",
+          "partOfSpeech": "adv.",
+          "translation": "现在"
+        },
+        {
+          "index": 357,
+          "word": "Often",
+          "ipa": "/ˈɔːfn/",
+          "partOfSpeech": "adv.",
+          "translation": "经常"
+        },
+        {
+          "index": 358,
+          "word": "Once",
+          "ipa": "/wʌns/",
+          "partOfSpeech": "adv.",
+          "translation": "一次"
+        },
+        {
+          "index": 359,
+          "word": "Only",
+          "ipa": "/ˈoʊnli/",
+          "partOfSpeech": "adv.",
+          "translation": "仅仅"
+        },
+        {
+          "index": 360,
+          "word": "Outside",
+          "ipa": "/ˌaʊtˈsaɪd/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "在外面"
+        },
+        {
+          "index": 361,
+          "word": "Over",
+          "ipa": "/ˈoʊvər/",
+          "partOfSpeech": "adv./prep.",
+          "translation": "在…上面"
+        },
+        {
+          "index": 362,
+          "word": "Perhaps",
+          "ipa": "/pərˈhæps/",
+          "partOfSpeech": "adv.",
+          "translation": "也许"
+        },
+        {
+          "index": 363,
+          "word": "Quickly",
+          "ipa": "/ˈkwɪkli/",
+          "partOfSpeech": "adv.",
+          "translation": "快速地"
+        },
+        {
+          "index": 364,
+          "word": "Quite",
+          "ipa": "/kwaɪt/",
+          "partOfSpeech": "adv.",
+          "translation": "相当"
+        },
+        {
+          "index": 365,
+          "word": "Rarely",
+          "ipa": "/ˈrerli/",
+          "partOfSpeech": "adv.",
+          "translation": "很少"
+        },
+        {
+          "index": 366,
+          "word": "Recently",
+          "ipa": "/ˈriːsntli/",
+          "partOfSpeech": "adv.",
+          "translation": "最近"
+        },
+        {
+          "index": 367,
+          "word": "Really",
+          "ipa": "/ˈriːəli/",
+          "partOfSpeech": "adv.",
+          "translation": "真正地"
+        },
+        {
+          "index": 368,
+          "word": "Right",
+          "ipa": "/raɪt/",
+          "partOfSpeech": "adv.",
+          "translation": "正确地"
+        },
+        {
+          "index": 369,
+          "word": "Since",
+          "ipa": "/sɪns/",
+          "partOfSpeech": "prep./conj.",
+          "translation": "自从"
+        },
+        {
+          "index": 370,
+          "word": "Slowly",
+          "ipa": "/ˈsloʊli/",
+          "partOfSpeech": "adv.",
+          "translation": "缓慢地"
+        },
+        {
+          "index": 371,
+          "word": "Sometimes",
+          "ipa": "/ˈsʌmtaɪmz/",
+          "partOfSpeech": "adv.",
+          "translation": "有时"
+        },
+        {
+          "index": 372,
+          "word": "Soon",
+          "ipa": "/suːn/",
+          "partOfSpeech": "adv.",
+          "translation": "不久"
+        },
+        {
+          "index": 373,
+          "word": "Still",
+          "ipa": "/stɪl/",
+          "partOfSpeech": "adv.",
+          "translation": "仍然"
+        },
+        {
+          "index": 374,
+          "word": "Suddenly",
+          "ipa": "/ˈsʌdənli/",
+          "partOfSpeech": "adv.",
+          "translation": "突然地"
+        },
+        {
+          "index": 375,
+          "word": "Then",
+          "ipa": "/ðen/",
+          "partOfSpeech": "adv.",
+          "translation": "然后"
+        },
+        {
+          "index": 376,
+          "word": "There",
+          "ipa": "/ðer/",
+          "partOfSpeech": "adv.",
+          "translation": "那里"
+        },
+        {
+          "index": 377,
+          "word": "Though",
+          "ipa": "/ðoʊ/",
+          "partOfSpeech": "conj./adv.",
+          "translation": "虽然"
+        },
+        {
+          "index": 378,
+          "word": "Through",
+          "ipa": "/θruː/",
+          "partOfSpeech": "prep.",
+          "translation": "通过"
+        },
+        {
+          "index": 379,
+          "word": "Throughout",
+          "ipa": "/θruːˈaʊt/",
+          "partOfSpeech": "prep.",
+          "translation": "贯穿"
+        },
+        {
+          "index": 380,
+          "word": "Today",
+          "ipa": "/təˈdeɪ/",
+          "partOfSpeech": "adv.",
+          "translation": "今天"
+        },
+        {
+          "index": 381,
+          "word": "Together",
+          "ipa": "/təˈɡeðər/",
+          "partOfSpeech": "adv.",
+          "translation": "一起"
+        },
+        {
+          "index": 382,
+          "word": "Tomorrow",
+          "ipa": "/təˈmɑːroʊ/",
+          "partOfSpeech": "adv.",
+          "translation": "明天"
+        },
+        {
+          "index": 383,
+          "word": "Too",
+          "ipa": "/tuː/",
+          "partOfSpeech": "adv.",
+          "translation": "也"
+        },
+        {
+          "index": 384,
+          "word": "Toward",
+          "ipa": "/tɔːrd/",
+          "partOfSpeech": "prep.",
+          "translation": "朝"
+        },
+        {
+          "index": 385,
+          "word": "Under",
+          "ipa": "/ˈʌndər/",
+          "partOfSpeech": "prep.",
+          "translation": "在…下面"
+        },
+        {
+          "index": 386,
+          "word": "Until",
+          "ipa": "/ənˈtɪl/",
+          "partOfSpeech": "prep.",
+          "translation": "直到"
+        },
+        {
+          "index": 387,
+          "word": "Up",
+          "ipa": "/ʌp/",
+          "partOfSpeech": "adv.",
+          "translation": "向上"
+        },
+        {
+          "index": 388,
+          "word": "Usually",
+          "ipa": "/ˈjuːʒuəli/",
+          "partOfSpeech": "adv.",
+          "translation": "通常"
+        },
+        {
+          "index": 389,
+          "word": "Very",
+          "ipa": "/ˈveri/",
+          "partOfSpeech": "adv.",
+          "translation": "非常"
+        },
+        {
+          "index": 390,
+          "word": "Well",
+          "ipa": "/wel/",
+          "partOfSpeech": "adv.",
+          "translation": "好地"
+        },
+        {
+          "index": 391,
+          "word": "When",
+          "ipa": "/wen/",
+          "partOfSpeech": "adv.",
+          "translation": "什么时候"
+        },
+        {
+          "index": 392,
+          "word": "Where",
+          "ipa": "/wer/",
+          "partOfSpeech": "adv.",
+          "translation": "在哪里"
+        },
+        {
+          "index": 393,
+          "word": "While",
+          "ipa": "/waɪl/",
+          "partOfSpeech": "conj.",
+          "translation": "当…时候"
+        },
+        {
+          "index": 394,
+          "word": "Within",
+          "ipa": "/wɪˈðɪn/",
+          "partOfSpeech": "prep.",
+          "translation": "在…之内"
+        },
+        {
+          "index": 395,
+          "word": "Without",
+          "ipa": "/wɪˈðaʊt/",
+          "partOfSpeech": "prep.",
+          "translation": "没有"
+        },
+        {
+          "index": 396,
+          "word": "Yet",
+          "ipa": "/jet/",
+          "partOfSpeech": "adv.",
+          "translation": "尚未"
+        }
+      ]
+    },
+    {
+      "title": "五、常见场景（Daily Life English Words for Common Situations）",
+      "words": [
+        {
+          "index": 397,
+          "word": "Alarm",
+          "ipa": "/əˈlɑːrm/",
+          "partOfSpeech": "n.",
+          "translation": "闹钟"
+        },
+        {
+          "index": 398,
+          "word": "Apartment",
+          "ipa": "/əˈpɑːrtmənt/",
+          "partOfSpeech": "n.",
+          "translation": "公寓"
+        },
+        {
+          "index": 399,
+          "word": "Appointment",
+          "ipa": "/əˈpɔɪntmənt/",
+          "partOfSpeech": "n.",
+          "translation": "约会"
+        },
+        {
+          "index": 400,
+          "word": "Bakery",
+          "ipa": "/ˈbeɪkəri/",
+          "partOfSpeech": "n.",
+          "translation": "面包店"
+        },
+        {
+          "index": 401,
+          "word": "Bank",
+          "ipa": "/bæŋk/",
+          "partOfSpeech": "n.",
+          "translation": "银行"
+        },
+        {
+          "index": 402,
+          "word": "Bathroom",
+          "ipa": "/ˈbæθruːm/",
+          "partOfSpeech": "n.",
+          "translation": "浴室"
+        },
+        {
+          "index": 403,
+          "word": "Bed",
+          "ipa": "/bed/",
+          "partOfSpeech": "n.",
+          "translation": "床"
+        },
+        {
+          "index": 404,
+          "word": "Bill",
+          "ipa": "/bɪl/",
+          "partOfSpeech": "n.",
+          "translation": "账单"
+        },
+        {
+          "index": 405,
+          "word": "Breakfast",
+          "ipa": "/ˈbrekfəst/",
+          "partOfSpeech": "n.",
+          "translation": "早餐"
+        },
+        {
+          "index": 406,
+          "word": "Bus",
+          "ipa": "/bʌs/",
+          "partOfSpeech": "n.",
+          "translation": "公共汽车"
+        },
+        {
+          "index": 407,
+          "word": "Calendar",
+          "ipa": "/ˈkælɪndər/",
+          "partOfSpeech": "n.",
+          "translation": "日历"
+        },
+        {
+          "index": 408,
+          "word": "Camera",
+          "ipa": "/ˈkæmərə/",
+          "partOfSpeech": "n.",
+          "translation": "相机"
+        },
+        {
+          "index": 409,
+          "word": "Chair",
+          "ipa": "/tʃer/",
+          "partOfSpeech": "n.",
+          "translation": "椅子"
+        },
+        {
+          "index": 410,
+          "word": "Classroom",
+          "ipa": "/ˈklæsruːm/",
+          "partOfSpeech": "n.",
+          "translation": "教室"
+        },
+        {
+          "index": 411,
+          "word": "Clock",
+          "ipa": "/klɑːk/",
+          "partOfSpeech": "n.",
+          "translation": "时钟"
+        },
+        {
+          "index": 412,
+          "word": "Clothes",
+          "ipa": "/kloʊðz/",
+          "partOfSpeech": "n.",
+          "translation": "衣服"
+        },
+        {
+          "index": 413,
+          "word": "Coffee",
+          "ipa": "/ˈkɔːfi/",
+          "partOfSpeech": "n.",
+          "translation": "咖啡"
+        },
+        {
+          "index": 414,
+          "word": "Computer",
+          "ipa": "/kəmˈpjuːtər/",
+          "partOfSpeech": "n.",
+          "translation": "电脑"
+        },
+        {
+          "index": 415,
+          "word": "Conversation",
+          "ipa": "/ˌkɑːnvərˈseɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "对话"
+        },
+        {
+          "index": 416,
+          "word": "Cooking",
+          "ipa": "/ˈkʊkɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "烹饪"
+        },
+        {
+          "index": 417,
+          "word": "Customer",
+          "ipa": "/ˈkʌstəmər/",
+          "partOfSpeech": "n.",
+          "translation": "顾客"
+        },
+        {
+          "index": 418,
+          "word": "Desk",
+          "ipa": "/desk/",
+          "partOfSpeech": "n.",
+          "translation": "书桌"
+        },
+        {
+          "index": 419,
+          "word": "Dinner",
+          "ipa": "/ˈdɪnər/",
+          "partOfSpeech": "n.",
+          "translation": "晚餐"
+        },
+        {
+          "index": 420,
+          "word": "Door",
+          "ipa": "/dɔːr/",
+          "partOfSpeech": "n.",
+          "translation": "门"
+        },
+        {
+          "index": 421,
+          "word": "Electricity",
+          "ipa": "/ɪˌlekˈtrɪsəti/",
+          "partOfSpeech": "n.",
+          "translation": "电"
+        },
+        {
+          "index": 422,
+          "word": "Elevator",
+          "ipa": "/ˈelɪveɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "电梯"
+        },
+        {
+          "index": 423,
+          "word": "Email",
+          "ipa": "/ˈiːmeɪl/",
+          "partOfSpeech": "n.",
+          "translation": "电子邮件"
+        },
+        {
+          "index": 424,
+          "word": "Exercise",
+          "ipa": "/ˈeksərsaɪz/",
+          "partOfSpeech": "n.",
+          "translation": "锻炼"
+        },
+        {
+          "index": 425,
+          "word": "Factory",
+          "ipa": "/ˈfæktri/",
+          "partOfSpeech": "n.",
+          "translation": "工厂"
+        },
+        {
+          "index": 426,
+          "word": "Family",
+          "ipa": "/ˈfæməli/",
+          "partOfSpeech": "n.",
+          "translation": "家庭"
+        },
+        {
+          "index": 427,
+          "word": "Food",
+          "ipa": "/fuːd/",
+          "partOfSpeech": "n.",
+          "translation": "食物"
+        },
+        {
+          "index": 428,
+          "word": "Friend",
+          "ipa": "/frend/",
+          "partOfSpeech": "n.",
+          "translation": "朋友"
+        },
+        {
+          "index": 429,
+          "word": "Gas",
+          "ipa": "/ɡæs/",
+          "partOfSpeech": "n.",
+          "translation": "汽油"
+        },
+        {
+          "index": 430,
+          "word": "Grocery",
+          "ipa": "/ˈɡroʊsəri/",
+          "partOfSpeech": "n.",
+          "translation": "杂货"
+        },
+        {
+          "index": 431,
+          "word": "Gym",
+          "ipa": "/dʒɪm/",
+          "partOfSpeech": "n.",
+          "translation": "健身房"
+        },
+        {
+          "index": 432,
+          "word": "Hospital",
+          "ipa": "/ˈhɑːspɪtl/",
+          "partOfSpeech": "n.",
+          "translation": "医院"
+        },
+        {
+          "index": 433,
+          "word": "Hotel",
+          "ipa": "/hoʊˈtel/",
+          "partOfSpeech": "n.",
+          "translation": "酒店"
+        },
+        {
+          "index": 434,
+          "word": "Internet",
+          "ipa": "/ˈɪntərnet/",
+          "partOfSpeech": "n.",
+          "translation": "互联网"
+        },
+        {
+          "index": 435,
+          "word": "Journey",
+          "ipa": "/ˈdʒɜːrni/",
+          "partOfSpeech": "n.",
+          "translation": "旅行"
+        },
+        {
+          "index": 436,
+          "word": "Kitchen",
+          "ipa": "/ˈkɪtʃɪn/",
+          "partOfSpeech": "n.",
+          "translation": "厨房"
+        },
+        {
+          "index": 437,
+          "word": "Laptop",
+          "ipa": "/ˈlæptɑːp/",
+          "partOfSpeech": "n.",
+          "translation": "笔记本电脑"
+        },
+        {
+          "index": 438,
+          "word": "Library",
+          "ipa": "/ˈlaɪbreri/",
+          "partOfSpeech": "n.",
+          "translation": "图书馆"
+        },
+        {
+          "index": 439,
+          "word": "Lunch",
+          "ipa": "/lʌntʃ/",
+          "partOfSpeech": "n.",
+          "translation": "午餐"
+        },
+        {
+          "index": 440,
+          "word": "Market",
+          "ipa": "/ˈmɑːrkɪt/",
+          "partOfSpeech": "n.",
+          "translation": "市场"
+        },
+        {
+          "index": 441,
+          "word": "Meeting",
+          "ipa": "/ˈmiːtɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "会议"
+        },
+        {
+          "index": 442,
+          "word": "Mobile",
+          "ipa": "/ˈmoʊbl/",
+          "partOfSpeech": "n.",
+          "translation": "手机"
+        },
+        {
+          "index": 443,
+          "word": "Money",
+          "ipa": "/ˈmʌni/",
+          "partOfSpeech": "n.",
+          "translation": "钱"
+        },
+        {
+          "index": 444,
+          "word": "Movie",
+          "ipa": "/ˈmuːvi/",
+          "partOfSpeech": "n.",
+          "translation": "电影"
+        },
+        {
+          "index": 445,
+          "word": "Museum",
+          "ipa": "/mjuˈziːəm/",
+          "partOfSpeech": "n.",
+          "translation": "博物馆"
+        },
+        {
+          "index": 446,
+          "word": "Office",
+          "ipa": "/ˈɔːfɪs/",
+          "partOfSpeech": "n.",
+          "translation": "办公室"
+        },
+        {
+          "index": 447,
+          "word": "Park",
+          "ipa": "/pɑːrk/",
+          "partOfSpeech": "n.",
+          "translation": "公园"
+        },
+        {
+          "index": 448,
+          "word": "Passport",
+          "ipa": "/ˈpæspɔːrt/",
+          "partOfSpeech": "n.",
+          "translation": "护照"
+        },
+        {
+          "index": 449,
+          "word": "Payment",
+          "ipa": "/ˈpeɪmənt/",
+          "partOfSpeech": "n.",
+          "translation": "付款"
+        },
+        {
+          "index": 450,
+          "word": "Phone",
+          "ipa": "/foʊn/",
+          "partOfSpeech": "n.",
+          "translation": "电话"
+        },
+        {
+          "index": 451,
+          "word": "Photograph",
+          "ipa": "/ˈfoʊtəɡræf/",
+          "partOfSpeech": "n.",
+          "translation": "照片"
+        },
+        {
+          "index": 452,
+          "word": "Plan",
+          "ipa": "/plæn/",
+          "partOfSpeech": "n.",
+          "translation": "计划"
+        },
+        {
+          "index": 453,
+          "word": "Restaurant",
+          "ipa": "/ˈrestrɑːnt/",
+          "partOfSpeech": "n.",
+          "translation": "餐厅"
+        },
+        {
+          "index": 454,
+          "word": "Room",
+          "ipa": "/ruːm/",
+          "partOfSpeech": "n.",
+          "translation": "房间"
+        },
+        {
+          "index": 455,
+          "word": "School",
+          "ipa": "/skuːl/",
+          "partOfSpeech": "n.",
+          "translation": "学校"
+        },
+        {
+          "index": 456,
+          "word": "Shopping",
+          "ipa": "/ˈʃɑːpɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "购物"
+        },
+        {
+          "index": 457,
+          "word": "Station",
+          "ipa": "/ˈsteɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "车站"
+        },
+        {
+          "index": 458,
+          "word": "Street",
+          "ipa": "/striːt/",
+          "partOfSpeech": "n.",
+          "translation": "街道"
+        },
+        {
+          "index": 459,
+          "word": "Store",
+          "ipa": "/stɔːr/",
+          "partOfSpeech": "n.",
+          "translation": "商店"
+        },
+        {
+          "index": 460,
+          "word": "Student",
+          "ipa": "/ˈstuːdnt/",
+          "partOfSpeech": "n.",
+          "translation": "学生"
+        },
+        {
+          "index": 461,
+          "word": "Study",
+          "ipa": "/ˈstʌdi/",
+          "partOfSpeech": "n.",
+          "translation": "学习"
+        },
+        {
+          "index": 462,
+          "word": "Teacher",
+          "ipa": "/ˈtiːtʃər/",
+          "partOfSpeech": "n.",
+          "translation": "老师"
+        },
+        {
+          "index": 463,
+          "word": "Ticket",
+          "ipa": "/ˈtɪkɪt/",
+          "partOfSpeech": "n.",
+          "translation": "票"
+        },
+        {
+          "index": 464,
+          "word": "Toothbrush",
+          "ipa": "/ˈtuːθbrʌʃ/",
+          "partOfSpeech": "n.",
+          "translation": "牙刷"
+        },
+        {
+          "index": 465,
+          "word": "Traffic",
+          "ipa": "/ˈtræfɪk/",
+          "partOfSpeech": "n.",
+          "translation": "交通"
+        },
+        {
+          "index": 466,
+          "word": "Train",
+          "ipa": "/treɪn/",
+          "partOfSpeech": "n.",
+          "translation": "火车"
+        },
+        {
+          "index": 467,
+          "word": "Trip",
+          "ipa": "/trɪp/",
+          "partOfSpeech": "n.",
+          "translation": "旅行"
+        },
+        {
+          "index": 468,
+          "word": "Vacation",
+          "ipa": "/veɪˈkeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "假期"
+        },
+        {
+          "index": 469,
+          "word": "Visitor",
+          "ipa": "/ˈvɪzɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "访客"
+        },
+        {
+          "index": 470,
+          "word": "Wallet",
+          "ipa": "/ˈwɑːlɪt/",
+          "partOfSpeech": "n.",
+          "translation": "钱包"
+        },
+        {
+          "index": 471,
+          "word": "Water",
+          "ipa": "/ˈwɔːtər/",
+          "partOfSpeech": "n.",
+          "translation": "水"
+        },
+        {
+          "index": 472,
+          "word": "Weekend",
+          "ipa": "/ˈwiːkend/",
+          "partOfSpeech": "n.",
+          "translation": "周末"
+        },
+        {
+          "index": 473,
+          "word": "Window",
+          "ipa": "/ˈwɪndoʊ/",
+          "partOfSpeech": "n.",
+          "translation": "窗户"
+        },
+        {
+          "index": 474,
+          "word": "Workplace",
+          "ipa": "/ˈwɜːrkpleɪs/",
+          "partOfSpeech": "n.",
+          "translation": "工作场所"
+        },
+        {
+          "index": 475,
+          "word": "Airport",
+          "ipa": "/ˈerpɔːrt/",
+          "partOfSpeech": "n.",
+          "translation": "机场"
+        },
+        {
+          "index": 476,
+          "word": "ATM",
+          "ipa": "/ˌeɪ tiː ˈem/",
+          "partOfSpeech": "n.",
+          "translation": "自动取款机"
+        },
+        {
+          "index": 477,
+          "word": "Barber",
+          "ipa": "/ˈbɑːrbər/",
+          "partOfSpeech": "n.",
+          "translation": "理发师"
+        },
+        {
+          "index": 478,
+          "word": "Boss",
+          "ipa": "/bɔːs/",
+          "partOfSpeech": "n.",
+          "translation": "老板"
+        },
+        {
+          "index": 479,
+          "word": "Cleaner",
+          "ipa": "/ˈkliːnər/",
+          "partOfSpeech": "n.",
+          "translation": "清洁工"
+        },
+        {
+          "index": 480,
+          "word": "Delivery",
+          "ipa": "/dɪˈlɪvəri/",
+          "partOfSpeech": "n.",
+          "translation": "送货"
+        },
+        {
+          "index": 481,
+          "word": "Doctor",
+          "ipa": "/ˈdɑːktər/",
+          "partOfSpeech": "n.",
+          "translation": "医生"
+        },
+        {
+          "index": 482,
+          "word": "Driver",
+          "ipa": "/ˈdraɪvər/",
+          "partOfSpeech": "n.",
+          "translation": "司机"
+        },
+        {
+          "index": 483,
+          "word": "Engineer",
+          "ipa": "/ˌendʒɪˈnɪr/",
+          "partOfSpeech": "n.",
+          "translation": "工程师"
+        },
+        {
+          "index": 484,
+          "word": "Flight",
+          "ipa": "/flaɪt/",
+          "partOfSpeech": "n.",
+          "translation": "航班"
+        },
+        {
+          "index": 485,
+          "word": "Job",
+          "ipa": "/dʒɑːb/",
+          "partOfSpeech": "n.",
+          "translation": "工作"
+        },
+        {
+          "index": 486,
+          "word": "Laundry",
+          "ipa": "/ˈlɔːndri/",
+          "partOfSpeech": "n.",
+          "translation": "洗衣"
+        },
+        {
+          "index": 487,
+          "word": "Mechanic",
+          "ipa": "/məˈkænɪk/",
+          "partOfSpeech": "n.",
+          "translation": "机械师"
+        },
+        {
+          "index": 488,
+          "word": "Meeting",
+          "ipa": "/ˈmiːtɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "会议"
+        },
+        {
+          "index": 489,
+          "word": "Neighbor",
+          "ipa": "/ˈneɪbər/",
+          "partOfSpeech": "n.",
+          "translation": "邻居"
+        },
+        {
+          "index": 490,
+          "word": "Nurse",
+          "ipa": "/nɜːrs/",
+          "partOfSpeech": "n.",
+          "translation": "护士"
+        },
+        {
+          "index": 491,
+          "word": "Plumber",
+          "ipa": "/ˈplʌmər/",
+          "partOfSpeech": "n.",
+          "translation": "水管工"
+        },
+        {
+          "index": 492,
+          "word": "Police",
+          "ipa": "/pəˈliːs/",
+          "partOfSpeech": "n.",
+          "translation": "警察"
+        },
+        {
+          "index": 493,
+          "word": "Postman",
+          "ipa": "/ˈpoʊstmən/",
+          "partOfSpeech": "n.",
+          "translation": "邮递员"
+        },
+        {
+          "index": 494,
+          "word": "Receptionist",
+          "ipa": "/rɪˈsepʃənɪst/",
+          "partOfSpeech": "n.",
+          "translation": "接待员"
+        },
+        {
+          "index": 495,
+          "word": "Waiter",
+          "ipa": "/ˈweɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "服务员"
+        }
+      ]
+    },
+    {
+      "title": "六、代词和连词（Common Pronouns and Conjunctions in Daily English）",
+      "words": [
+        {
+          "index": 496,
+          "word": "I",
+          "ipa": "/aɪ/",
+          "partOfSpeech": "pron.",
+          "translation": "我"
+        },
+        {
+          "index": 497,
+          "word": "You",
+          "ipa": "/juː/",
+          "partOfSpeech": "pron.",
+          "translation": "你，你们"
+        },
+        {
+          "index": 498,
+          "word": "He",
+          "ipa": "/hiː/",
+          "partOfSpeech": "pron.",
+          "translation": "他"
+        },
+        {
+          "index": 499,
+          "word": "She",
+          "ipa": "/ʃiː/",
+          "partOfSpeech": "pron.",
+          "translation": "她"
+        },
+        {
+          "index": 500,
+          "word": "It",
+          "ipa": "/ɪt/",
+          "partOfSpeech": "pron.",
+          "translation": "它"
+        },
+        {
+          "index": 501,
+          "word": "We",
+          "ipa": "/wiː/",
+          "partOfSpeech": "pron.",
+          "translation": "我们"
+        },
+        {
+          "index": 502,
+          "word": "They",
+          "ipa": "/ðeɪ/",
+          "partOfSpeech": "pron.",
+          "translation": "他们"
+        },
+        {
+          "index": 503,
+          "word": "Me",
+          "ipa": "/miː/",
+          "partOfSpeech": "pron.",
+          "translation": "我"
+        },
+        {
+          "index": 504,
+          "word": "Him",
+          "ipa": "/hɪm/",
+          "partOfSpeech": "pron.",
+          "translation": "他"
+        },
+        {
+          "index": 505,
+          "word": "Her",
+          "ipa": "/hɜːr/",
+          "partOfSpeech": "pron.",
+          "translation": "她"
+        },
+        {
+          "index": 506,
+          "word": "Us",
+          "ipa": "/ʌs/",
+          "partOfSpeech": "pron.",
+          "translation": "我们"
+        },
+        {
+          "index": 507,
+          "word": "Them",
+          "ipa": "/ðem/",
+          "partOfSpeech": "pron.",
+          "translation": "他们"
+        },
+        {
+          "index": 508,
+          "word": "My",
+          "ipa": "/maɪ/",
+          "partOfSpeech": "pron.",
+          "translation": "我的"
+        },
+        {
+          "index": 509,
+          "word": "Your",
+          "ipa": "/jʊr/",
+          "partOfSpeech": "pron.",
+          "translation": "你的"
+        },
+        {
+          "index": 510,
+          "word": "His",
+          "ipa": "/hɪz/",
+          "partOfSpeech": "pron.",
+          "translation": "他的"
+        },
+        {
+          "index": 511,
+          "word": "Her",
+          "ipa": "/hɜːr/",
+          "partOfSpeech": "pron.",
+          "translation": "她的"
+        },
+        {
+          "index": 512,
+          "word": "Our",
+          "ipa": "/ɑːr/",
+          "partOfSpeech": "pron.",
+          "translation": "我们的"
+        },
+        {
+          "index": 513,
+          "word": "Their",
+          "ipa": "/ðer/",
+          "partOfSpeech": "pron.",
+          "translation": "他们的"
+        },
+        {
+          "index": 514,
+          "word": "Mine",
+          "ipa": "/maɪn/",
+          "partOfSpeech": "pron.",
+          "translation": "我的"
+        },
+        {
+          "index": 515,
+          "word": "Yours",
+          "ipa": "/jʊrz/",
+          "partOfSpeech": "pron.",
+          "translation": "你的"
+        },
+        {
+          "index": 516,
+          "word": "Hers",
+          "ipa": "/hɜːrz/",
+          "partOfSpeech": "pron.",
+          "translation": "她的"
+        },
+        {
+          "index": 517,
+          "word": "Ours",
+          "ipa": "/ɑːrz/",
+          "partOfSpeech": "pron.",
+          "translation": "我们的"
+        },
+        {
+          "index": 518,
+          "word": "Theirs",
+          "ipa": "/ðerz/",
+          "partOfSpeech": "pron.",
+          "translation": "他们的"
+        },
+        {
+          "index": 519,
+          "word": "This",
+          "ipa": "/ðɪs/",
+          "partOfSpeech": "pron.",
+          "translation": "这个"
+        },
+        {
+          "index": 520,
+          "word": "That",
+          "ipa": "/ðæt/",
+          "partOfSpeech": "pron.",
+          "translation": "那个"
+        },
+        {
+          "index": 521,
+          "word": "These",
+          "ipa": "/ðiːz/",
+          "partOfSpeech": "pron.",
+          "translation": "这些"
+        },
+        {
+          "index": 522,
+          "word": "Those",
+          "ipa": "/ðoʊz/",
+          "partOfSpeech": "pron.",
+          "translation": "那些"
+        },
+        {
+          "index": 523,
+          "word": "Who",
+          "ipa": "/huː/",
+          "partOfSpeech": "pron.",
+          "translation": "谁"
+        },
+        {
+          "index": 524,
+          "word": "Whom",
+          "ipa": "/huːm/",
+          "partOfSpeech": "pron.",
+          "translation": "谁"
+        },
+        {
+          "index": 525,
+          "word": "Whose",
+          "ipa": "/huːz/",
+          "partOfSpeech": "pron.",
+          "translation": "谁的"
+        },
+        {
+          "index": 526,
+          "word": "Which",
+          "ipa": "/wɪtʃ/",
+          "partOfSpeech": "pron.",
+          "translation": "哪一个"
+        },
+        {
+          "index": 527,
+          "word": "What",
+          "ipa": "/wʌt/",
+          "partOfSpeech": "pron.",
+          "translation": "什么"
+        },
+        {
+          "index": 528,
+          "word": "Where",
+          "ipa": "/wer/",
+          "partOfSpeech": "conj./adv.",
+          "translation": "在哪里"
+        },
+        {
+          "index": 529,
+          "word": "When",
+          "ipa": "/wen/",
+          "partOfSpeech": "conj./adv.",
+          "translation": "什么时候"
+        },
+        {
+          "index": 530,
+          "word": "Why",
+          "ipa": "/waɪ/",
+          "partOfSpeech": "conj./adv.",
+          "translation": "为什么"
+        },
+        {
+          "index": 531,
+          "word": "Because",
+          "ipa": "/bɪˈkɔːz/",
+          "partOfSpeech": "conj.",
+          "translation": "因为"
+        },
+        {
+          "index": 532,
+          "word": "Although",
+          "ipa": "/ɔːlˈðoʊ/",
+          "partOfSpeech": "conj.",
+          "translation": "虽然"
+        },
+        {
+          "index": 533,
+          "word": "And",
+          "ipa": "/ænd/",
+          "partOfSpeech": "conj.",
+          "translation": "和"
+        },
+        {
+          "index": 534,
+          "word": "But",
+          "ipa": "/bʌt/",
+          "partOfSpeech": "conj.",
+          "translation": "但是"
+        },
+        {
+          "index": 535,
+          "word": "Or",
+          "ipa": "/ɔːr/",
+          "partOfSpeech": "conj.",
+          "translation": "或者"
+        },
+        {
+          "index": 536,
+          "word": "So",
+          "ipa": "/soʊ/",
+          "partOfSpeech": "conj.",
+          "translation": "所以"
+        },
+        {
+          "index": 537,
+          "word": "Yet",
+          "ipa": "/jet/",
+          "partOfSpeech": "conj.",
+          "translation": "然而"
+        },
+        {
+          "index": 538,
+          "word": "While",
+          "ipa": "/waɪl/",
+          "partOfSpeech": "conj.",
+          "translation": "而"
+        },
+        {
+          "index": 539,
+          "word": "Unless",
+          "ipa": "/ənˈles/",
+          "partOfSpeech": "conj.",
+          "translation": "除非"
+        },
+        {
+          "index": 540,
+          "word": "Until",
+          "ipa": "/ənˈtɪl/",
+          "partOfSpeech": "conj.",
+          "translation": "直到"
+        },
+        {
+          "index": 541,
+          "word": "Since",
+          "ipa": "/sɪns/",
+          "partOfSpeech": "conj.",
+          "translation": "自从"
+        },
+        {
+          "index": 542,
+          "word": "If",
+          "ipa": "/ɪf/",
+          "partOfSpeech": "conj.",
+          "translation": "如果"
+        },
+        {
+          "index": 543,
+          "word": "Though",
+          "ipa": "/ðoʊ/",
+          "partOfSpeech": "conj.",
+          "translation": "虽然"
+        },
+        {
+          "index": 544,
+          "word": "Therefore",
+          "ipa": "/ˈðerfɔːr/",
+          "partOfSpeech": "adv.",
+          "translation": "因此"
+        }
+      ]
+    },
+    {
+      "title": "七、时间与数字（Time and Number Words Used in Daily English）",
+      "words": [
+        {
+          "index": 545,
+          "word": "Annual",
+          "ipa": "/ˈænjuəl/",
+          "partOfSpeech": "adj.",
+          "translation": "每年的"
+        },
+        {
+          "index": 546,
+          "word": "Century",
+          "ipa": "/ˈsentʃəri/",
+          "partOfSpeech": "n.",
+          "translation": "世纪"
+        },
+        {
+          "index": 547,
+          "word": "Decade",
+          "ipa": "/ˈdekeɪd/",
+          "partOfSpeech": "n.",
+          "translation": "十年"
+        },
+        {
+          "index": 548,
+          "word": "Moment",
+          "ipa": "/ˈmoʊmənt/",
+          "partOfSpeech": "n.",
+          "translation": "时刻"
+        },
+        {
+          "index": 549,
+          "word": "Instant",
+          "ipa": "/ˈɪnstənt/",
+          "partOfSpeech": "n.",
+          "translation": "瞬间"
+        },
+        {
+          "index": 550,
+          "word": "Minute",
+          "ipa": "/ˈmɪnɪt/",
+          "partOfSpeech": "n.",
+          "translation": "分钟"
+        },
+        {
+          "index": 551,
+          "word": "Hour",
+          "ipa": "/ˈaʊər/",
+          "partOfSpeech": "n.",
+          "translation": "小时"
+        },
+        {
+          "index": 552,
+          "word": "Day",
+          "ipa": "/deɪ/",
+          "partOfSpeech": "n.",
+          "translation": "天"
+        },
+        {
+          "index": 553,
+          "word": "Week",
+          "ipa": "/wiːk/",
+          "partOfSpeech": "n.",
+          "translation": "周"
+        },
+        {
+          "index": 554,
+          "word": "Month",
+          "ipa": "/mʌnθ/",
+          "partOfSpeech": "n.",
+          "translation": "月"
+        },
+        {
+          "index": 555,
+          "word": "Year",
+          "ipa": "/jɪr/",
+          "partOfSpeech": "n.",
+          "translation": "年"
+        },
+        {
+          "index": 556,
+          "word": "Quarter",
+          "ipa": "/ˈkwɔːrtər/",
+          "partOfSpeech": "n.",
+          "translation": "四分之一"
+        },
+        {
+          "index": 557,
+          "word": "Half",
+          "ipa": "/hæf/",
+          "partOfSpeech": "n.",
+          "translation": "一半"
+        },
+        {
+          "index": 558,
+          "word": "Twice",
+          "ipa": "/twaɪs/",
+          "partOfSpeech": "adv.",
+          "translation": "两次"
+        },
+        {
+          "index": 559,
+          "word": "Once",
+          "ipa": "/wʌns/",
+          "partOfSpeech": "adv.",
+          "translation": "一次"
+        },
+        {
+          "index": 560,
+          "word": "Daily",
+          "ipa": "/ˈdeɪli/",
+          "partOfSpeech": "adj./adv.",
+          "translation": "每天"
+        },
+        {
+          "index": 561,
+          "word": "Weekly",
+          "ipa": "/ˈwiːkli/",
+          "partOfSpeech": "adj./adv.",
+          "translation": "每周"
+        },
+        {
+          "index": 562,
+          "word": "Monthly",
+          "ipa": "/ˈmʌnθli/",
+          "partOfSpeech": "adj./adv.",
+          "translation": "每月"
+        },
+        {
+          "index": 563,
+          "word": "Yearly",
+          "ipa": "/ˈjɪrli/",
+          "partOfSpeech": "adj./adv.",
+          "translation": "每年"
+        },
+        {
+          "index": 564,
+          "word": "Before",
+          "ipa": "/bɪˈfɔːr/",
+          "partOfSpeech": "prep./adv.",
+          "translation": "以前"
+        },
+        {
+          "index": 565,
+          "word": "After",
+          "ipa": "/ˈæftər/",
+          "partOfSpeech": "prep./adv.",
+          "translation": "之后"
+        },
+        {
+          "index": 566,
+          "word": "Now",
+          "ipa": "/naʊ/",
+          "partOfSpeech": "adv.",
+          "translation": "现在"
+        },
+        {
+          "index": 567,
+          "word": "Soon",
+          "ipa": "/suːn/",
+          "partOfSpeech": "adv.",
+          "translation": "很快"
+        },
+        {
+          "index": 568,
+          "word": "Later",
+          "ipa": "/ˈleɪtər/",
+          "partOfSpeech": "adv.",
+          "translation": "以后"
+        },
+        {
+          "index": 569,
+          "word": "Early",
+          "ipa": "/ˈɜːrli/",
+          "partOfSpeech": "adv.",
+          "translation": "早"
+        },
+        {
+          "index": 570,
+          "word": "Late",
+          "ipa": "/leɪt/",
+          "partOfSpeech": "adv.",
+          "translation": "晚"
+        },
+        {
+          "index": 571,
+          "word": "Tomorrow",
+          "ipa": "/təˈmɑːroʊ/",
+          "partOfSpeech": "n./adv.",
+          "translation": "明天"
+        },
+        {
+          "index": 572,
+          "word": "Yesterday",
+          "ipa": "/ˈjestərdeɪ/",
+          "partOfSpeech": "n./adv.",
+          "translation": "昨天"
+        },
+        {
+          "index": 573,
+          "word": "Today",
+          "ipa": "/təˈdeɪ/",
+          "partOfSpeech": "n./adv.",
+          "translation": "今天"
+        },
+        {
+          "index": 574,
+          "word": "Morning",
+          "ipa": "/ˈmɔːrnɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "早上"
+        },
+        {
+          "index": 575,
+          "word": "Afternoon",
+          "ipa": "/ˌæftərˈnuːn/",
+          "partOfSpeech": "n.",
+          "translation": "下午"
+        },
+        {
+          "index": 576,
+          "word": "Evening",
+          "ipa": "/ˈiːvnɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "晚上"
+        },
+        {
+          "index": 577,
+          "word": "Night",
+          "ipa": "/naɪt/",
+          "partOfSpeech": "n.",
+          "translation": "夜晚"
+        },
+        {
+          "index": 578,
+          "word": "Midnight",
+          "ipa": "/ˈmɪdnaɪt/",
+          "partOfSpeech": "n.",
+          "translation": "午夜"
+        },
+        {
+          "index": 579,
+          "word": "Noon",
+          "ipa": "/nuːn/",
+          "partOfSpeech": "n.",
+          "translation": "中午"
+        },
+        {
+          "index": 580,
+          "word": "Future",
+          "ipa": "/ˈfjuːtʃər/",
+          "partOfSpeech": "n.",
+          "translation": "未来"
+        },
+        {
+          "index": 581,
+          "word": "Past",
+          "ipa": "/pæst/",
+          "partOfSpeech": "n.",
+          "translation": "过去"
+        },
+        {
+          "index": 582,
+          "word": "Present",
+          "ipa": "/ˈpreznt/",
+          "partOfSpeech": "n.",
+          "translation": "现在"
+        },
+        {
+          "index": 583,
+          "word": "Clock",
+          "ipa": "/klɑːk/",
+          "partOfSpeech": "n.",
+          "translation": "时钟"
+        },
+        {
+          "index": 584,
+          "word": "Calendar",
+          "ipa": "/ˈkælɪndər/",
+          "partOfSpeech": "n.",
+          "translation": "日历"
+        },
+        {
+          "index": 585,
+          "word": "Date",
+          "ipa": "/deɪt/",
+          "partOfSpeech": "n.",
+          "translation": "日期"
+        },
+        {
+          "index": 586,
+          "word": "Number",
+          "ipa": "/ˈnʌmbər/",
+          "partOfSpeech": "n.",
+          "translation": "数字"
+        },
+        {
+          "index": 587,
+          "word": "Digit",
+          "ipa": "/ˈdɪdʒɪt/",
+          "partOfSpeech": "n.",
+          "translation": "数字"
+        },
+        {
+          "index": 588,
+          "word": "Dozen",
+          "ipa": "/ˈdʌzn/",
+          "partOfSpeech": "n.",
+          "translation": "一打"
+        },
+        {
+          "index": 589,
+          "word": "Pair",
+          "ipa": "/per/",
+          "partOfSpeech": "n.",
+          "translation": "一对"
+        },
+        {
+          "index": 590,
+          "word": "Hundred",
+          "ipa": "/ˈhʌndrəd/",
+          "partOfSpeech": "n.",
+          "translation": "一百"
+        },
+        {
+          "index": 591,
+          "word": "Thousand",
+          "ipa": "/ˈθaʊznd/",
+          "partOfSpeech": "n.",
+          "translation": "一千"
+        },
+        {
+          "index": 592,
+          "word": "Million",
+          "ipa": "/ˈmɪljən/",
+          "partOfSpeech": "n.",
+          "translation": "百万"
+        },
+        {
+          "index": 593,
+          "word": "Billion",
+          "ipa": "/ˈbɪljən/",
+          "partOfSpeech": "n.",
+          "translation": "十亿"
+        },
+        {
+          "index": 594,
+          "word": "Zero",
+          "ipa": "/ˈzɪroʊ/",
+          "partOfSpeech": "n.",
+          "translation": "零"
+        }
+      ]
+    },
+    {
+      "title": "八、饮食（Common Food and Drink Words in English）",
+      "words": [
+        {
+          "index": 595,
+          "word": "Appetite",
+          "ipa": "/ˈæpɪtaɪt/",
+          "partOfSpeech": "n.",
+          "translation": "食欲"
+        },
+        {
+          "index": 596,
+          "word": "Bakery",
+          "ipa": "/ˈbeɪkəri/",
+          "partOfSpeech": "n.",
+          "translation": "面包店"
+        },
+        {
+          "index": 597,
+          "word": "Beverage",
+          "ipa": "/ˈbevərɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "饮料"
+        },
+        {
+          "index": 598,
+          "word": "Breakfast",
+          "ipa": "/ˈbrekfəst/",
+          "partOfSpeech": "n.",
+          "translation": "早餐"
+        },
+        {
+          "index": 599,
+          "word": "Lunch",
+          "ipa": "/lʌntʃ/",
+          "partOfSpeech": "n.",
+          "translation": "午餐"
+        },
+        {
+          "index": 600,
+          "word": "Dinner",
+          "ipa": "/ˈdɪnər/",
+          "partOfSpeech": "n.",
+          "translation": "晚餐"
+        },
+        {
+          "index": 601,
+          "word": "Snack",
+          "ipa": "/snæk/",
+          "partOfSpeech": "n.",
+          "translation": "小吃"
+        },
+        {
+          "index": 602,
+          "word": "Dessert",
+          "ipa": "/dɪˈzɜːrt/",
+          "partOfSpeech": "n.",
+          "translation": "甜点"
+        },
+        {
+          "index": 603,
+          "word": "Fruit",
+          "ipa": "/fruːt/",
+          "partOfSpeech": "n.",
+          "translation": "水果"
+        },
+        {
+          "index": 604,
+          "word": "Vegetable",
+          "ipa": "/ˈvedʒtəbl/",
+          "partOfSpeech": "n.",
+          "translation": "蔬菜"
+        },
+        {
+          "index": 605,
+          "word": "Meat",
+          "ipa": "/miːt/",
+          "partOfSpeech": "n.",
+          "translation": "肉"
+        },
+        {
+          "index": 606,
+          "word": "Seafood",
+          "ipa": "/ˈsiːfuːd/",
+          "partOfSpeech": "n.",
+          "translation": "海鲜"
+        },
+        {
+          "index": 607,
+          "word": "Spice",
+          "ipa": "/spaɪs/",
+          "partOfSpeech": "n.",
+          "translation": "香料"
+        },
+        {
+          "index": 608,
+          "word": "Herb",
+          "ipa": "/ɜːrb/",
+          "partOfSpeech": "n.",
+          "translation": "香草"
+        },
+        {
+          "index": 609,
+          "word": "Ingredient",
+          "ipa": "/ɪnˈɡriːdiənt/",
+          "partOfSpeech": "n.",
+          "translation": "原料"
+        },
+        {
+          "index": 610,
+          "word": "Recipe",
+          "ipa": "/ˈresəpi/",
+          "partOfSpeech": "n.",
+          "translation": "食谱"
+        },
+        {
+          "index": 611,
+          "word": "Sauce",
+          "ipa": "/sɔːs/",
+          "partOfSpeech": "n.",
+          "translation": "酱汁"
+        },
+        {
+          "index": 612,
+          "word": "Soup",
+          "ipa": "/suːp/",
+          "partOfSpeech": "n.",
+          "translation": "汤"
+        },
+        {
+          "index": 613,
+          "word": "Salad",
+          "ipa": "/ˈsæləd/",
+          "partOfSpeech": "n.",
+          "translation": "沙拉"
+        },
+        {
+          "index": 614,
+          "word": "Bread",
+          "ipa": "/bred/",
+          "partOfSpeech": "n.",
+          "translation": "面包"
+        },
+        {
+          "index": 615,
+          "word": "Cheese",
+          "ipa": "/tʃiːz/",
+          "partOfSpeech": "n.",
+          "translation": "奶酪"
+        },
+        {
+          "index": 616,
+          "word": "Butter",
+          "ipa": "/ˈbʌtər/",
+          "partOfSpeech": "n.",
+          "translation": "黄油"
+        },
+        {
+          "index": 617,
+          "word": "Yogurt",
+          "ipa": "/ˈjoʊɡərt/",
+          "partOfSpeech": "n.",
+          "translation": "酸奶"
+        },
+        {
+          "index": 618,
+          "word": "Rice",
+          "ipa": "/raɪs/",
+          "partOfSpeech": "n.",
+          "translation": "米饭"
+        },
+        {
+          "index": 619,
+          "word": "Pasta",
+          "ipa": "/ˈpɑːstə/",
+          "partOfSpeech": "n.",
+          "translation": "意大利面"
+        },
+        {
+          "index": 620,
+          "word": "Pizza",
+          "ipa": "/ˈpiːtsə/",
+          "partOfSpeech": "n.",
+          "translation": "披萨"
+        },
+        {
+          "index": 621,
+          "word": "Burger",
+          "ipa": "/ˈbɜːrɡər/",
+          "partOfSpeech": "n.",
+          "translation": "汉堡"
+        },
+        {
+          "index": 622,
+          "word": "Sandwich",
+          "ipa": "/ˈsænwɪtʃ/",
+          "partOfSpeech": "n.",
+          "translation": "三明治"
+        },
+        {
+          "index": 623,
+          "word": "Egg",
+          "ipa": "/eɡ/",
+          "partOfSpeech": "n.",
+          "translation": "鸡蛋"
+        },
+        {
+          "index": 624,
+          "word": "Chicken",
+          "ipa": "/ˈtʃɪkɪn/",
+          "partOfSpeech": "n.",
+          "translation": "鸡肉"
+        },
+        {
+          "index": 625,
+          "word": "Beef",
+          "ipa": "/biːf/",
+          "partOfSpeech": "n.",
+          "translation": "牛肉"
+        },
+        {
+          "index": 626,
+          "word": "Pork",
+          "ipa": "/pɔːrk/",
+          "partOfSpeech": "n.",
+          "translation": "猪肉"
+        },
+        {
+          "index": 627,
+          "word": "Fish",
+          "ipa": "/fɪʃ/",
+          "partOfSpeech": "n.",
+          "translation": "鱼"
+        },
+        {
+          "index": 628,
+          "word": "Shrimp",
+          "ipa": "/ʃrɪmp/",
+          "partOfSpeech": "n.",
+          "translation": "虾"
+        },
+        {
+          "index": 629,
+          "word": "Crab",
+          "ipa": "/kræb/",
+          "partOfSpeech": "n.",
+          "translation": "螃蟹"
+        },
+        {
+          "index": 630,
+          "word": "Lobster",
+          "ipa": "/ˈlɑːbstər/",
+          "partOfSpeech": "n.",
+          "translation": "龙虾"
+        },
+        {
+          "index": 631,
+          "word": "Juice",
+          "ipa": "/dʒuːs/",
+          "partOfSpeech": "n.",
+          "translation": "果汁"
+        },
+        {
+          "index": 632,
+          "word": "Tea",
+          "ipa": "/tiː/",
+          "partOfSpeech": "n.",
+          "translation": "茶"
+        },
+        {
+          "index": 633,
+          "word": "Coffee",
+          "ipa": "/ˈkɔːfi/",
+          "partOfSpeech": "n.",
+          "translation": "咖啡"
+        },
+        {
+          "index": 634,
+          "word": "Milk",
+          "ipa": "/mɪlk/",
+          "partOfSpeech": "n.",
+          "translation": "牛奶"
+        },
+        {
+          "index": 635,
+          "word": "Water",
+          "ipa": "/ˈwɔːtər/",
+          "partOfSpeech": "n.",
+          "translation": "水"
+        },
+        {
+          "index": 636,
+          "word": "Wine",
+          "ipa": "/waɪn/",
+          "partOfSpeech": "n.",
+          "translation": "葡萄酒"
+        },
+        {
+          "index": 637,
+          "word": "Beer",
+          "ipa": "/bɪr/",
+          "partOfSpeech": "n.",
+          "translation": "啤酒"
+        },
+        {
+          "index": 638,
+          "word": "Honey",
+          "ipa": "/ˈhʌni/",
+          "partOfSpeech": "n.",
+          "translation": "蜂蜜"
+        },
+        {
+          "index": 639,
+          "word": "Sugar",
+          "ipa": "/ˈʃʊɡər/",
+          "partOfSpeech": "n.",
+          "translation": "糖"
+        },
+        {
+          "index": 640,
+          "word": "Salt",
+          "ipa": "/sɔːlt/",
+          "partOfSpeech": "n.",
+          "translation": "盐"
+        },
+        {
+          "index": 641,
+          "word": "Oil",
+          "ipa": "/ɔɪl/",
+          "partOfSpeech": "n.",
+          "translation": "油"
+        },
+        {
+          "index": 642,
+          "word": "Vinegar",
+          "ipa": "/ˈvɪnɪɡər/",
+          "partOfSpeech": "n.",
+          "translation": "醋"
+        },
+        {
+          "index": 643,
+          "word": "Flour",
+          "ipa": "/ˈflaʊər/",
+          "partOfSpeech": "n.",
+          "translation": "面粉"
+        },
+        {
+          "index": 644,
+          "word": "Cake",
+          "ipa": "/keɪk/",
+          "partOfSpeech": "n.",
+          "translation": "蛋糕"
+        }
+      ]
+    },
+    {
+      "title": "九、身体与健康（Body Parts and Health-Related English Words）",
+      "words": [
+        {
+          "index": 645,
+          "word": "Ankle",
+          "ipa": "/ˈæŋkl/",
+          "partOfSpeech": "n.",
+          "translation": "脚踝"
+        },
+        {
+          "index": 646,
+          "word": "Arm",
+          "ipa": "/ɑːrm/",
+          "partOfSpeech": "n.",
+          "translation": "手臂"
+        },
+        {
+          "index": 647,
+          "word": "Back",
+          "ipa": "/bæk/",
+          "partOfSpeech": "n.",
+          "translation": "背部"
+        },
+        {
+          "index": 648,
+          "word": "Blood",
+          "ipa": "/blʌd/",
+          "partOfSpeech": "n.",
+          "translation": "血液"
+        },
+        {
+          "index": 649,
+          "word": "Bone",
+          "ipa": "/boʊn/",
+          "partOfSpeech": "n.",
+          "translation": "骨头"
+        },
+        {
+          "index": 650,
+          "word": "Brain",
+          "ipa": "/breɪn/",
+          "partOfSpeech": "n.",
+          "translation": "大脑"
+        },
+        {
+          "index": 651,
+          "word": "Chest",
+          "ipa": "/tʃest/",
+          "partOfSpeech": "n.",
+          "translation": "胸部"
+        },
+        {
+          "index": 652,
+          "word": "Chin",
+          "ipa": "/tʃɪn/",
+          "partOfSpeech": "n.",
+          "translation": "下巴"
+        },
+        {
+          "index": 653,
+          "word": "Ear",
+          "ipa": "/ɪr/",
+          "partOfSpeech": "n.",
+          "translation": "耳朵"
+        },
+        {
+          "index": 654,
+          "word": "Elbow",
+          "ipa": "/ˈelboʊ/",
+          "partOfSpeech": "n.",
+          "translation": "肘部"
+        },
+        {
+          "index": 655,
+          "word": "Eye",
+          "ipa": "/aɪ/",
+          "partOfSpeech": "n.",
+          "translation": "眼睛"
+        },
+        {
+          "index": 656,
+          "word": "Eyelash",
+          "ipa": "/ˈaɪlæʃ/",
+          "partOfSpeech": "n.",
+          "translation": "睫毛"
+        },
+        {
+          "index": 657,
+          "word": "Eyebrow",
+          "ipa": "/ˈaɪbraʊ/",
+          "partOfSpeech": "n.",
+          "translation": "眉毛"
+        },
+        {
+          "index": 658,
+          "word": "Face",
+          "ipa": "/feɪs/",
+          "partOfSpeech": "n.",
+          "translation": "脸"
+        },
+        {
+          "index": 659,
+          "word": "Finger",
+          "ipa": "/ˈfɪŋɡər/",
+          "partOfSpeech": "n.",
+          "translation": "手指"
+        },
+        {
+          "index": 660,
+          "word": "Foot",
+          "ipa": "/fʊt/",
+          "partOfSpeech": "n.",
+          "translation": "脚"
+        },
+        {
+          "index": 661,
+          "word": "Forehead",
+          "ipa": "/ˈfɔːrhed/",
+          "partOfSpeech": "n.",
+          "translation": "额头"
+        },
+        {
+          "index": 662,
+          "word": "Hand",
+          "ipa": "/hænd/",
+          "partOfSpeech": "n.",
+          "translation": "手"
+        },
+        {
+          "index": 663,
+          "word": "Head",
+          "ipa": "/hed/",
+          "partOfSpeech": "n.",
+          "translation": "头"
+        },
+        {
+          "index": 664,
+          "word": "Heart",
+          "ipa": "/hɑːrt/",
+          "partOfSpeech": "n.",
+          "translation": "心脏"
+        },
+        {
+          "index": 665,
+          "word": "Hip",
+          "ipa": "/hɪp/",
+          "partOfSpeech": "n.",
+          "translation": "臀部"
+        },
+        {
+          "index": 666,
+          "word": "Knee",
+          "ipa": "/niː/",
+          "partOfSpeech": "n.",
+          "translation": "膝盖"
+        },
+        {
+          "index": 667,
+          "word": "Leg",
+          "ipa": "/leɡ/",
+          "partOfSpeech": "n.",
+          "translation": "腿"
+        },
+        {
+          "index": 668,
+          "word": "Lips",
+          "ipa": "/lɪps/",
+          "partOfSpeech": "n.",
+          "translation": "嘴唇"
+        },
+        {
+          "index": 669,
+          "word": "Mouth",
+          "ipa": "/maʊθ/",
+          "partOfSpeech": "n.",
+          "translation": "嘴"
+        },
+        {
+          "index": 670,
+          "word": "Neck",
+          "ipa": "/nek/",
+          "partOfSpeech": "n.",
+          "translation": "脖子"
+        },
+        {
+          "index": 671,
+          "word": "Nose",
+          "ipa": "/noʊz/",
+          "partOfSpeech": "n.",
+          "translation": "鼻子"
+        },
+        {
+          "index": 672,
+          "word": "Shoulder",
+          "ipa": "/ˈʃoʊldər/",
+          "partOfSpeech": "n.",
+          "translation": "肩膀"
+        },
+        {
+          "index": 673,
+          "word": "Skin",
+          "ipa": "/skɪn/",
+          "partOfSpeech": "n.",
+          "translation": "皮肤"
+        },
+        {
+          "index": 674,
+          "word": "Stomach",
+          "ipa": "/ˈstʌmək/",
+          "partOfSpeech": "n.",
+          "translation": "胃"
+        },
+        {
+          "index": 675,
+          "word": "Teeth",
+          "ipa": "/tiːθ/",
+          "partOfSpeech": "n.",
+          "translation": "牙齿"
+        },
+        {
+          "index": 676,
+          "word": "Throat",
+          "ipa": "/θroʊt/",
+          "partOfSpeech": "n.",
+          "translation": "喉咙"
+        },
+        {
+          "index": 677,
+          "word": "Toe",
+          "ipa": "/toʊ/",
+          "partOfSpeech": "n.",
+          "translation": "脚趾"
+        },
+        {
+          "index": 678,
+          "word": "Tongue",
+          "ipa": "/tʌŋ/",
+          "partOfSpeech": "n.",
+          "translation": "舌头"
+        },
+        {
+          "index": 679,
+          "word": "Waist",
+          "ipa": "/weɪst/",
+          "partOfSpeech": "n.",
+          "translation": "腰"
+        },
+        {
+          "index": 680,
+          "word": "Wrist",
+          "ipa": "/rɪst/",
+          "partOfSpeech": "n.",
+          "translation": "手腕"
+        },
+        {
+          "index": 681,
+          "word": "Doctor",
+          "ipa": "/ˈdɑːktər/",
+          "partOfSpeech": "n.",
+          "translation": "医生"
+        },
+        {
+          "index": 682,
+          "word": "Nurse",
+          "ipa": "/nɜːrs/",
+          "partOfSpeech": "n.",
+          "translation": "护士"
+        },
+        {
+          "index": 683,
+          "word": "Patient",
+          "ipa": "/ˈpeɪʃnt/",
+          "partOfSpeech": "n.",
+          "translation": "病人"
+        },
+        {
+          "index": 684,
+          "word": "Hospital",
+          "ipa": "/ˈhɑːspɪtl/",
+          "partOfSpeech": "n.",
+          "translation": "医院"
+        },
+        {
+          "index": 685,
+          "word": "Clinic",
+          "ipa": "/ˈklɪnɪk/",
+          "partOfSpeech": "n.",
+          "translation": "诊所"
+        },
+        {
+          "index": 686,
+          "word": "Medicine",
+          "ipa": "/ˈmedɪsn/",
+          "partOfSpeech": "n.",
+          "translation": "药"
+        },
+        {
+          "index": 687,
+          "word": "Tablet",
+          "ipa": "/ˈtæblət/",
+          "partOfSpeech": "n.",
+          "translation": "药片"
+        },
+        {
+          "index": 688,
+          "word": "Syrup",
+          "ipa": "/ˈsɪrəp/",
+          "partOfSpeech": "n.",
+          "translation": "糖浆"
+        },
+        {
+          "index": 689,
+          "word": "Vaccine",
+          "ipa": "/vækˈsiːn/",
+          "partOfSpeech": "n.",
+          "translation": "疫苗"
+        },
+        {
+          "index": 690,
+          "word": "Operation",
+          "ipa": "/ˌɑːpəˈreɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "手术"
+        },
+        {
+          "index": 691,
+          "word": "Pain",
+          "ipa": "/peɪn/",
+          "partOfSpeech": "n.",
+          "translation": "疼痛"
+        },
+        {
+          "index": 692,
+          "word": "Cough",
+          "ipa": "/kɔːf/",
+          "partOfSpeech": "n.",
+          "translation": "咳嗽"
+        },
+        {
+          "index": 693,
+          "word": "Cold",
+          "ipa": "/koʊld/",
+          "partOfSpeech": "n.",
+          "translation": "感冒"
+        },
+        {
+          "index": 694,
+          "word": "Fever",
+          "ipa": "/ˈfiːvər/",
+          "partOfSpeech": "n.",
+          "translation": "发烧"
+        }
+      ]
+    },
+    {
+      "title": "十、家庭与社会关系（Family and Relationship Words Used in Daily English）",
+      "words": [
+        {
+          "index": 695,
+          "word": "Father",
+          "ipa": "/ˈfɑːðər/",
+          "partOfSpeech": "n.",
+          "translation": "父亲"
+        },
+        {
+          "index": 696,
+          "word": "Mother",
+          "ipa": "/ˈmʌðər/",
+          "partOfSpeech": "n.",
+          "translation": "母亲"
+        },
+        {
+          "index": 697,
+          "word": "Parent",
+          "ipa": "/ˈperənt/",
+          "partOfSpeech": "n.",
+          "translation": "父母"
+        },
+        {
+          "index": 698,
+          "word": "Son",
+          "ipa": "/sʌn/",
+          "partOfSpeech": "n.",
+          "translation": "儿子"
+        },
+        {
+          "index": 699,
+          "word": "Daughter",
+          "ipa": "/ˈdɔːtər/",
+          "partOfSpeech": "n.",
+          "translation": "女儿"
+        },
+        {
+          "index": 700,
+          "word": "Brother",
+          "ipa": "/ˈbrʌðər/",
+          "partOfSpeech": "n.",
+          "translation": "兄弟"
+        },
+        {
+          "index": 701,
+          "word": "Sister",
+          "ipa": "/ˈsɪstər/",
+          "partOfSpeech": "n.",
+          "translation": "姐妹"
+        },
+        {
+          "index": 702,
+          "word": "Sibling",
+          "ipa": "/ˈsɪblɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "兄弟姐妹"
+        },
+        {
+          "index": 703,
+          "word": "Grandfather",
+          "ipa": "/ˈɡrænfɑːðər/",
+          "partOfSpeech": "n.",
+          "translation": "祖父"
+        },
+        {
+          "index": 704,
+          "word": "Grandmother",
+          "ipa": "/ˈɡrænmʌðər/",
+          "partOfSpeech": "n.",
+          "translation": "祖母"
+        },
+        {
+          "index": 705,
+          "word": "Grandparent",
+          "ipa": "/ˈɡrænperənt/",
+          "partOfSpeech": "n.",
+          "translation": "祖父母"
+        },
+        {
+          "index": 706,
+          "word": "Uncle",
+          "ipa": "/ˈʌŋkl/",
+          "partOfSpeech": "n.",
+          "translation": "叔叔"
+        },
+        {
+          "index": 707,
+          "word": "Aunt",
+          "ipa": "/ænt/",
+          "partOfSpeech": "n.",
+          "translation": "阿姨"
+        },
+        {
+          "index": 708,
+          "word": "Cousin",
+          "ipa": "/ˈkʌzn/",
+          "partOfSpeech": "n.",
+          "translation": "表兄弟"
+        },
+        {
+          "index": 709,
+          "word": "Nephew",
+          "ipa": "/ˈnefjuː/",
+          "partOfSpeech": "n.",
+          "translation": "侄子"
+        },
+        {
+          "index": 710,
+          "word": "Niece",
+          "ipa": "/niːs/",
+          "partOfSpeech": "n.",
+          "translation": "侄女"
+        },
+        {
+          "index": 711,
+          "word": "Husband",
+          "ipa": "/ˈhʌzbənd/",
+          "partOfSpeech": "n.",
+          "translation": "丈夫"
+        },
+        {
+          "index": 712,
+          "word": "Wife",
+          "ipa": "/waɪf/",
+          "partOfSpeech": "n.",
+          "translation": "妻子"
+        },
+        {
+          "index": 713,
+          "word": "Spouse",
+          "ipa": "/spaʊs/",
+          "partOfSpeech": "n.",
+          "translation": "配偶"
+        },
+        {
+          "index": 714,
+          "word": "In-laws",
+          "ipa": "/ˈɪn lɔːz/",
+          "partOfSpeech": "n.",
+          "translation": "姻亲"
+        },
+        {
+          "index": 715,
+          "word": "Father-in-law",
+          "ipa": "/ˈfɑːðər ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "岳父"
+        },
+        {
+          "index": 716,
+          "word": "Mother-in-law",
+          "ipa": "/ˈmʌðər ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "岳母"
+        },
+        {
+          "index": 717,
+          "word": "Son-in-law",
+          "ipa": "/ˈsʌn ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "女婿"
+        },
+        {
+          "index": 718,
+          "word": "Daughter-in-law",
+          "ipa": "/ˈdɔːtər ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "儿媳"
+        },
+        {
+          "index": 719,
+          "word": "Brother-in-law",
+          "ipa": "/ˈbrʌðər ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "姐夫"
+        },
+        {
+          "index": 720,
+          "word": "Sister-in-law",
+          "ipa": "/ˈsɪstər ɪn lɔː/",
+          "partOfSpeech": "n.",
+          "translation": "嫂子"
+        },
+        {
+          "index": 721,
+          "word": "Child",
+          "ipa": "/tʃaɪld/",
+          "partOfSpeech": "n.",
+          "translation": "孩子"
+        },
+        {
+          "index": 722,
+          "word": "Baby",
+          "ipa": "/ˈbeɪbi/",
+          "partOfSpeech": "n.",
+          "translation": "婴儿"
+        },
+        {
+          "index": 723,
+          "word": "Teenager",
+          "ipa": "/ˈtiːneɪdʒər/",
+          "partOfSpeech": "n.",
+          "translation": "青少年"
+        },
+        {
+          "index": 724,
+          "word": "Adult",
+          "ipa": "/əˈdʌlt/",
+          "partOfSpeech": "n.",
+          "translation": "成人"
+        },
+        {
+          "index": 725,
+          "word": "Family",
+          "ipa": "/ˈfæməli/",
+          "partOfSpeech": "n.",
+          "translation": "家庭"
+        },
+        {
+          "index": 726,
+          "word": "Relative",
+          "ipa": "/ˈrelətɪv/",
+          "partOfSpeech": "n.",
+          "translation": "亲戚"
+        },
+        {
+          "index": 727,
+          "word": "Relationship",
+          "ipa": "/rɪˈleɪʃnʃɪp/",
+          "partOfSpeech": "n.",
+          "translation": "关系"
+        },
+        {
+          "index": 728,
+          "word": "Marriage",
+          "ipa": "/ˈmærɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "婚姻"
+        },
+        {
+          "index": 729,
+          "word": "Divorce",
+          "ipa": "/dɪˈvɔːrs/",
+          "partOfSpeech": "n.",
+          "translation": "离婚"
+        },
+        {
+          "index": 730,
+          "word": "Engagement",
+          "ipa": "/ɪnˈɡeɪdʒmənt/",
+          "partOfSpeech": "n.",
+          "translation": "订婚"
+        },
+        {
+          "index": 731,
+          "word": "Couple",
+          "ipa": "/ˈkʌpl/",
+          "partOfSpeech": "n.",
+          "translation": "一对"
+        },
+        {
+          "index": 732,
+          "word": "Boyfriend",
+          "ipa": "/ˈbɔɪfrend/",
+          "partOfSpeech": "n.",
+          "translation": "男朋友"
+        },
+        {
+          "index": 733,
+          "word": "Girlfriend",
+          "ipa": "/ˈɡɜːrlfrend/",
+          "partOfSpeech": "n.",
+          "translation": "女朋友"
+        },
+        {
+          "index": 734,
+          "word": "Friend",
+          "ipa": "/frend/",
+          "partOfSpeech": "n.",
+          "translation": "朋友"
+        },
+        {
+          "index": 735,
+          "word": "Best friend",
+          "ipa": "/best frend/",
+          "partOfSpeech": "n.",
+          "translation": "最好的朋友"
+        },
+        {
+          "index": 736,
+          "word": "Neighbor",
+          "ipa": "/ˈneɪbər/",
+          "partOfSpeech": "n.",
+          "translation": "邻居"
+        },
+        {
+          "index": 737,
+          "word": "Roommate",
+          "ipa": "/ˈruːmmeɪt/",
+          "partOfSpeech": "n.",
+          "translation": "室友"
+        },
+        {
+          "index": 738,
+          "word": "Classmate",
+          "ipa": "/ˈklæsmeɪt/",
+          "partOfSpeech": "n.",
+          "translation": "同学"
+        },
+        {
+          "index": 739,
+          "word": "Teammate",
+          "ipa": "/ˈtiːmmeɪt/",
+          "partOfSpeech": "n.",
+          "translation": "队友"
+        },
+        {
+          "index": 740,
+          "word": "Colleague",
+          "ipa": "/ˈkɑːliːɡ/",
+          "partOfSpeech": "n.",
+          "translation": "同事"
+        },
+        {
+          "index": 741,
+          "word": "Boss",
+          "ipa": "/bɔːs/",
+          "partOfSpeech": "n.",
+          "translation": "老板"
+        },
+        {
+          "index": 742,
+          "word": "Partner",
+          "ipa": "/ˈpɑːrtnər/",
+          "partOfSpeech": "n.",
+          "translation": "伙伴"
+        },
+        {
+          "index": 743,
+          "word": "Companion",
+          "ipa": "/kəmˈpænjən/",
+          "partOfSpeech": "n.",
+          "translation": "伴侣"
+        },
+        {
+          "index": 744,
+          "word": "Caretaker",
+          "ipa": "/ˈkerteɪkər/",
+          "partOfSpeech": "n.",
+          "translation": "看护人"
+        }
+      ]
+    },
+    {
+      "title": "十一、服装与配饰（Clothing and Accessories Words in English）",
+      "words": [
+        {
+          "index": 745,
+          "word": "Shirt",
+          "ipa": "/ʃɜːrt/",
+          "partOfSpeech": "n.",
+          "translation": "衬衫"
+        },
+        {
+          "index": 746,
+          "word": "T-shirt",
+          "ipa": "/ˈtiː ʃɜːrt/",
+          "partOfSpeech": "n.",
+          "translation": "T恤"
+        },
+        {
+          "index": 747,
+          "word": "Blouse",
+          "ipa": "/blaʊs/",
+          "partOfSpeech": "n.",
+          "translation": "女衬衫"
+        },
+        {
+          "index": 748,
+          "word": "Dress",
+          "ipa": "/dres/",
+          "partOfSpeech": "n.",
+          "translation": "连衣裙"
+        },
+        {
+          "index": 749,
+          "word": "Skirt",
+          "ipa": "/skɜːrt/",
+          "partOfSpeech": "n.",
+          "translation": "裙子"
+        },
+        {
+          "index": 750,
+          "word": "Jeans",
+          "ipa": "/dʒiːnz/",
+          "partOfSpeech": "n.",
+          "translation": "牛仔裤"
+        },
+        {
+          "index": 751,
+          "word": "Pants",
+          "ipa": "/pænts/",
+          "partOfSpeech": "n.",
+          "translation": "裤子"
+        },
+        {
+          "index": 752,
+          "word": "Trousers",
+          "ipa": "/ˈtraʊzərz/",
+          "partOfSpeech": "n.",
+          "translation": "长裤"
+        },
+        {
+          "index": 753,
+          "word": "Shorts",
+          "ipa": "/ʃɔːrts/",
+          "partOfSpeech": "n.",
+          "translation": "短裤"
+        },
+        {
+          "index": 754,
+          "word": "Suit",
+          "ipa": "/suːt/",
+          "partOfSpeech": "n.",
+          "translation": "西装"
+        },
+        {
+          "index": 755,
+          "word": "Coat",
+          "ipa": "/koʊt/",
+          "partOfSpeech": "n.",
+          "translation": "外套"
+        },
+        {
+          "index": 756,
+          "word": "Jacket",
+          "ipa": "/ˈdʒækɪt/",
+          "partOfSpeech": "n.",
+          "translation": "夹克"
+        },
+        {
+          "index": 757,
+          "word": "Sweater",
+          "ipa": "/ˈswetər/",
+          "partOfSpeech": "n.",
+          "translation": "毛衣"
+        },
+        {
+          "index": 758,
+          "word": "Hoodie",
+          "ipa": "/ˈhʊdi/",
+          "partOfSpeech": "n.",
+          "translation": "连帽衫"
+        },
+        {
+          "index": 759,
+          "word": "Cardigan",
+          "ipa": "/ˈkɑːrdɪɡən/",
+          "partOfSpeech": "n.",
+          "translation": "开襟毛衣"
+        },
+        {
+          "index": 760,
+          "word": "Scarf",
+          "ipa": "/skɑːrf/",
+          "partOfSpeech": "n.",
+          "translation": "围巾"
+        },
+        {
+          "index": 761,
+          "word": "Gloves",
+          "ipa": "/ɡlʌvz/",
+          "partOfSpeech": "n.",
+          "translation": "手套"
+        },
+        {
+          "index": 762,
+          "word": "Mittens",
+          "ipa": "/ˈmɪtnz/",
+          "partOfSpeech": "n.",
+          "translation": "连指手套"
+        },
+        {
+          "index": 763,
+          "word": "Socks",
+          "ipa": "/sɑːks/",
+          "partOfSpeech": "n.",
+          "translation": "袜子"
+        },
+        {
+          "index": 764,
+          "word": "Shoes",
+          "ipa": "/ʃuːz/",
+          "partOfSpeech": "n.",
+          "translation": "鞋子"
+        },
+        {
+          "index": 765,
+          "word": "Boots",
+          "ipa": "/buːts/",
+          "partOfSpeech": "n.",
+          "translation": "靴子"
+        },
+        {
+          "index": 766,
+          "word": "Sandals",
+          "ipa": "/ˈsændlz/",
+          "partOfSpeech": "n.",
+          "translation": "凉鞋"
+        },
+        {
+          "index": 767,
+          "word": "Slippers",
+          "ipa": "/ˈslɪpərz/",
+          "partOfSpeech": "n.",
+          "translation": "拖鞋"
+        },
+        {
+          "index": 768,
+          "word": "Hat",
+          "ipa": "/hæt/",
+          "partOfSpeech": "n.",
+          "translation": "帽子"
+        },
+        {
+          "index": 769,
+          "word": "Cap",
+          "ipa": "/kæp/",
+          "partOfSpeech": "n.",
+          "translation": "棒球帽"
+        },
+        {
+          "index": 770,
+          "word": "Belt",
+          "ipa": "/belt/",
+          "partOfSpeech": "n.",
+          "translation": "腰带"
+        },
+        {
+          "index": 771,
+          "word": "Tie",
+          "ipa": "/taɪ/",
+          "partOfSpeech": "n.",
+          "translation": "领带"
+        },
+        {
+          "index": 772,
+          "word": "Bow tie",
+          "ipa": "/boʊ taɪ/",
+          "partOfSpeech": "n.",
+          "translation": "蝴蝶结领结"
+        },
+        {
+          "index": 773,
+          "word": "Watch",
+          "ipa": "/wɑːtʃ/",
+          "partOfSpeech": "n.",
+          "translation": "手表"
+        },
+        {
+          "index": 774,
+          "word": "Ring",
+          "ipa": "/rɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "戒指"
+        },
+        {
+          "index": 775,
+          "word": "Necklace",
+          "ipa": "/ˈnekləs/",
+          "partOfSpeech": "n.",
+          "translation": "项链"
+        },
+        {
+          "index": 776,
+          "word": "Bracelet",
+          "ipa": "/ˈbreɪslət/",
+          "partOfSpeech": "n.",
+          "translation": "手镯"
+        },
+        {
+          "index": 777,
+          "word": "Earrings",
+          "ipa": "/ˈɪrɪŋz/",
+          "partOfSpeech": "n.",
+          "translation": "耳环"
+        },
+        {
+          "index": 778,
+          "word": "Sunglasses",
+          "ipa": "/ˈsʌnɡlæsɪz/",
+          "partOfSpeech": "n.",
+          "translation": "太阳镜"
+        },
+        {
+          "index": 779,
+          "word": "Wallet",
+          "ipa": "/ˈwɑːlɪt/",
+          "partOfSpeech": "n.",
+          "translation": "钱包"
+        },
+        {
+          "index": 780,
+          "word": "Handbag",
+          "ipa": "/ˈhændbæɡ/",
+          "partOfSpeech": "n.",
+          "translation": "手提包"
+        },
+        {
+          "index": 781,
+          "word": "Backpack",
+          "ipa": "/ˈbækpæk/",
+          "partOfSpeech": "n.",
+          "translation": "背包"
+        },
+        {
+          "index": 782,
+          "word": "Purse",
+          "ipa": "/pɜːrs/",
+          "partOfSpeech": "n.",
+          "translation": "钱包"
+        },
+        {
+          "index": 783,
+          "word": "Umbrella",
+          "ipa": "/ʌmˈbrelə/",
+          "partOfSpeech": "n.",
+          "translation": "雨伞"
+        },
+        {
+          "index": 784,
+          "word": "Raincoat",
+          "ipa": "/ˈreɪnkoʊt/",
+          "partOfSpeech": "n.",
+          "translation": "雨衣"
+        },
+        {
+          "index": 785,
+          "word": "Uniform",
+          "ipa": "/ˈjuːnɪfɔːrm/",
+          "partOfSpeech": "n.",
+          "translation": "制服"
+        },
+        {
+          "index": 786,
+          "word": "Costume",
+          "ipa": "/ˈkɑːstuːm/",
+          "partOfSpeech": "n.",
+          "translation": "服装"
+        },
+        {
+          "index": 787,
+          "word": "Apron",
+          "ipa": "/ˈeɪprən/",
+          "partOfSpeech": "n.",
+          "translation": "围裙"
+        },
+        {
+          "index": 788,
+          "word": "Glasses",
+          "ipa": "/ˈɡlæsɪz/",
+          "partOfSpeech": "n.",
+          "translation": "眼镜"
+        },
+        {
+          "index": 789,
+          "word": "Helmet",
+          "ipa": "/ˈhelmɪt/",
+          "partOfSpeech": "n.",
+          "translation": "头盔"
+        },
+        {
+          "index": 790,
+          "word": "Mask",
+          "ipa": "/mæsk/",
+          "partOfSpeech": "n.",
+          "translation": "口罩"
+        },
+        {
+          "index": 791,
+          "word": "Jewel",
+          "ipa": "/ˈdʒuːəl/",
+          "partOfSpeech": "n.",
+          "translation": "宝石"
+        },
+        {
+          "index": 792,
+          "word": "Fabric",
+          "ipa": "/ˈfæbrɪk/",
+          "partOfSpeech": "n.",
+          "translation": "面料"
+        },
+        {
+          "index": 793,
+          "word": "Thread",
+          "ipa": "/θred/",
+          "partOfSpeech": "n.",
+          "translation": "线"
+        },
+        {
+          "index": 794,
+          "word": "Button",
+          "ipa": "/ˈbʌtn/",
+          "partOfSpeech": "n.",
+          "translation": "纽扣"
+        }
+      ]
+    },
+    {
+      "title": "十二、天气与自然（Weather and Nature Words for Everyday English）",
+      "words": [
+        {
+          "index": 795,
+          "word": "Weather",
+          "ipa": "/ˈweðər/",
+          "partOfSpeech": "n.",
+          "translation": "天气"
+        },
+        {
+          "index": 796,
+          "word": "Climate",
+          "ipa": "/ˈklaɪmət/",
+          "partOfSpeech": "n.",
+          "translation": "气候"
+        },
+        {
+          "index": 797,
+          "word": "Rain",
+          "ipa": "/reɪn/",
+          "partOfSpeech": "n.",
+          "translation": "雨"
+        },
+        {
+          "index": 798,
+          "word": "Snow",
+          "ipa": "/snoʊ/",
+          "partOfSpeech": "n.",
+          "translation": "雪"
+        },
+        {
+          "index": 799,
+          "word": "Hail",
+          "ipa": "/heɪl/",
+          "partOfSpeech": "n.",
+          "translation": "冰雹"
+        },
+        {
+          "index": 800,
+          "word": "Wind",
+          "ipa": "/wɪnd/",
+          "partOfSpeech": "n.",
+          "translation": "风"
+        },
+        {
+          "index": 801,
+          "word": "Storm",
+          "ipa": "/stɔːrm/",
+          "partOfSpeech": "n.",
+          "translation": "风暴"
+        },
+        {
+          "index": 802,
+          "word": "Thunder",
+          "ipa": "/ˈθʌndər/",
+          "partOfSpeech": "n.",
+          "translation": "雷"
+        },
+        {
+          "index": 803,
+          "word": "Lightning",
+          "ipa": "/ˈlaɪtnɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "闪电"
+        },
+        {
+          "index": 804,
+          "word": "Cloud",
+          "ipa": "/klaʊd/",
+          "partOfSpeech": "n.",
+          "translation": "云"
+        },
+        {
+          "index": 805,
+          "word": "Sunshine",
+          "ipa": "/ˈsʌnʃaɪn/",
+          "partOfSpeech": "n.",
+          "translation": "阳光"
+        },
+        {
+          "index": 806,
+          "word": "Fog",
+          "ipa": "/fɔːɡ/",
+          "partOfSpeech": "n.",
+          "translation": "雾"
+        },
+        {
+          "index": 807,
+          "word": "Mist",
+          "ipa": "/mɪst/",
+          "partOfSpeech": "n.",
+          "translation": "薄雾"
+        },
+        {
+          "index": 808,
+          "word": "Breeze",
+          "ipa": "/briːz/",
+          "partOfSpeech": "n.",
+          "translation": "微风"
+        },
+        {
+          "index": 809,
+          "word": "Hurricane",
+          "ipa": "/ˈhɜːrəkən/",
+          "partOfSpeech": "n.",
+          "translation": "飓风"
+        },
+        {
+          "index": 810,
+          "word": "Tornado",
+          "ipa": "/tɔːrˈneɪdoʊ/",
+          "partOfSpeech": "n.",
+          "translation": "龙卷风"
+        },
+        {
+          "index": 811,
+          "word": "Temperature",
+          "ipa": "/ˈtemprətʃər/",
+          "partOfSpeech": "n.",
+          "translation": "温度"
+        },
+        {
+          "index": 812,
+          "word": "Heat",
+          "ipa": "/hiːt/",
+          "partOfSpeech": "n.",
+          "translation": "热"
+        },
+        {
+          "index": 813,
+          "word": "Cold",
+          "ipa": "/koʊld/",
+          "partOfSpeech": "n.",
+          "translation": "冷"
+        },
+        {
+          "index": 814,
+          "word": "Frost",
+          "ipa": "/frɔːst/",
+          "partOfSpeech": "n.",
+          "translation": "霜"
+        },
+        {
+          "index": 815,
+          "word": "Ice",
+          "ipa": "/aɪs/",
+          "partOfSpeech": "n.",
+          "translation": "冰"
+        },
+        {
+          "index": 816,
+          "word": "Snowflake",
+          "ipa": "/ˈsnoʊfleɪk/",
+          "partOfSpeech": "n.",
+          "translation": "雪花"
+        },
+        {
+          "index": 817,
+          "word": "Drizzle",
+          "ipa": "/ˈdrɪzl/",
+          "partOfSpeech": "n.",
+          "translation": "细雨"
+        },
+        {
+          "index": 818,
+          "word": "Flood",
+          "ipa": "/flʌd/",
+          "partOfSpeech": "n.",
+          "translation": "洪水"
+        },
+        {
+          "index": 819,
+          "word": "Drought",
+          "ipa": "/draʊt/",
+          "partOfSpeech": "n.",
+          "translation": "干旱"
+        },
+        {
+          "index": 820,
+          "word": "Rainbow",
+          "ipa": "/ˈreɪnboʊ/",
+          "partOfSpeech": "n.",
+          "translation": "彩虹"
+        },
+        {
+          "index": 821,
+          "word": "Season",
+          "ipa": "/ˈsiːzn/",
+          "partOfSpeech": "n.",
+          "translation": "季节"
+        },
+        {
+          "index": 822,
+          "word": "Spring",
+          "ipa": "/sprɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "春天"
+        },
+        {
+          "index": 823,
+          "word": "Summer",
+          "ipa": "/ˈsʌmər/",
+          "partOfSpeech": "n.",
+          "translation": "夏天"
+        },
+        {
+          "index": 824,
+          "word": "Autumn",
+          "ipa": "/ˈɔːtəm/",
+          "partOfSpeech": "n.",
+          "translation": "秋天"
+        },
+        {
+          "index": 825,
+          "word": "Winter",
+          "ipa": "/ˈwɪntər/",
+          "partOfSpeech": "n.",
+          "translation": "冬天"
+        },
+        {
+          "index": 826,
+          "word": "Nature",
+          "ipa": "/ˈneɪtʃər/",
+          "partOfSpeech": "n.",
+          "translation": "自然"
+        },
+        {
+          "index": 827,
+          "word": "Mountain",
+          "ipa": "/ˈmaʊntn/",
+          "partOfSpeech": "n.",
+          "translation": "山"
+        },
+        {
+          "index": 828,
+          "word": "Hill",
+          "ipa": "/hɪl/",
+          "partOfSpeech": "n.",
+          "translation": "小山"
+        },
+        {
+          "index": 829,
+          "word": "Valley",
+          "ipa": "/ˈvæli/",
+          "partOfSpeech": "n.",
+          "translation": "山谷"
+        },
+        {
+          "index": 830,
+          "word": "River",
+          "ipa": "/ˈrɪvər/",
+          "partOfSpeech": "n.",
+          "translation": "河流"
+        },
+        {
+          "index": 831,
+          "word": "Lake",
+          "ipa": "/leɪk/",
+          "partOfSpeech": "n.",
+          "translation": "湖泊"
+        },
+        {
+          "index": 832,
+          "word": "Ocean",
+          "ipa": "/ˈoʊʃn/",
+          "partOfSpeech": "n.",
+          "translation": "海洋"
+        },
+        {
+          "index": 833,
+          "word": "Sea",
+          "ipa": "/siː/",
+          "partOfSpeech": "n.",
+          "translation": "海"
+        },
+        {
+          "index": 834,
+          "word": "Island",
+          "ipa": "/ˈaɪlənd/",
+          "partOfSpeech": "n.",
+          "translation": "岛"
+        },
+        {
+          "index": 835,
+          "word": "Forest",
+          "ipa": "/ˈfɔːrɪst/",
+          "partOfSpeech": "n.",
+          "translation": "森林"
+        },
+        {
+          "index": 836,
+          "word": "Tree",
+          "ipa": "/triː/",
+          "partOfSpeech": "n.",
+          "translation": "树"
+        },
+        {
+          "index": 837,
+          "word": "Bush",
+          "ipa": "/bʊʃ/",
+          "partOfSpeech": "n.",
+          "translation": "灌木"
+        },
+        {
+          "index": 838,
+          "word": "Grass",
+          "ipa": "/ɡræs/",
+          "partOfSpeech": "n.",
+          "translation": "草"
+        },
+        {
+          "index": 839,
+          "word": "Flower",
+          "ipa": "/ˈflaʊər/",
+          "partOfSpeech": "n.",
+          "translation": "花"
+        },
+        {
+          "index": 840,
+          "word": "Leaf",
+          "ipa": "/liːf/",
+          "partOfSpeech": "n.",
+          "translation": "叶子"
+        },
+        {
+          "index": 841,
+          "word": "Root",
+          "ipa": "/ruːt/",
+          "partOfSpeech": "n.",
+          "translation": "根"
+        },
+        {
+          "index": 842,
+          "word": "Soil",
+          "ipa": "/sɔɪl/",
+          "partOfSpeech": "n.",
+          "translation": "土壤"
+        },
+        {
+          "index": 843,
+          "word": "Rock",
+          "ipa": "/rɑːk/",
+          "partOfSpeech": "n.",
+          "translation": "岩石"
+        },
+        {
+          "index": 844,
+          "word": "Sand",
+          "ipa": "/sænd/",
+          "partOfSpeech": "n.",
+          "translation": "沙子"
+        }
+      ]
+    },
+    {
+      "title": "十三、交通与旅行（Transportation and Travel Vocabulary in English）",
+      "words": [
+        {
+          "index": 845,
+          "word": "Travel",
+          "ipa": "/ˈtrævl/",
+          "partOfSpeech": "n./v.",
+          "translation": "旅行"
+        },
+        {
+          "index": 846,
+          "word": "Journey",
+          "ipa": "/ˈdʒɜːrni/",
+          "partOfSpeech": "n.",
+          "translation": "旅程"
+        },
+        {
+          "index": 847,
+          "word": "Trip",
+          "ipa": "/trɪp/",
+          "partOfSpeech": "n.",
+          "translation": "旅行"
+        },
+        {
+          "index": 848,
+          "word": "Tour",
+          "ipa": "/tʊr/",
+          "partOfSpeech": "n.",
+          "translation": "旅游"
+        },
+        {
+          "index": 849,
+          "word": "Vacation",
+          "ipa": "/veɪˈkeɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "假期"
+        },
+        {
+          "index": 850,
+          "word": "Luggage",
+          "ipa": "/ˈlʌɡɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "行李"
+        },
+        {
+          "index": 851,
+          "word": "Suitcase",
+          "ipa": "/ˈsuːtkeɪs/",
+          "partOfSpeech": "n.",
+          "translation": "手提箱"
+        },
+        {
+          "index": 852,
+          "word": "Passport",
+          "ipa": "/ˈpæspɔːrt/",
+          "partOfSpeech": "n.",
+          "translation": "护照"
+        },
+        {
+          "index": 853,
+          "word": "Ticket",
+          "ipa": "/ˈtɪkɪt/",
+          "partOfSpeech": "n.",
+          "translation": "票"
+        },
+        {
+          "index": 854,
+          "word": "Map",
+          "ipa": "/mæp/",
+          "partOfSpeech": "n.",
+          "translation": "地图"
+        },
+        {
+          "index": 855,
+          "word": "Route",
+          "ipa": "/ruːt/",
+          "partOfSpeech": "n.",
+          "translation": "路线"
+        },
+        {
+          "index": 856,
+          "word": "Direction",
+          "ipa": "/dəˈrekʃn/",
+          "partOfSpeech": "n.",
+          "translation": "方向"
+        },
+        {
+          "index": 857,
+          "word": "Destination",
+          "ipa": "/ˌdestɪˈneɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "目的地"
+        },
+        {
+          "index": 858,
+          "word": "Airport",
+          "ipa": "/ˈerpɔːrt/",
+          "partOfSpeech": "n.",
+          "translation": "机场"
+        },
+        {
+          "index": 859,
+          "word": "Airplane",
+          "ipa": "/ˈerpleɪn/",
+          "partOfSpeech": "n.",
+          "translation": "飞机"
+        },
+        {
+          "index": 860,
+          "word": "Pilot",
+          "ipa": "/ˈpaɪlət/",
+          "partOfSpeech": "n.",
+          "translation": "飞行员"
+        },
+        {
+          "index": 861,
+          "word": "Flight",
+          "ipa": "/flaɪt/",
+          "partOfSpeech": "n.",
+          "translation": "航班"
+        },
+        {
+          "index": 862,
+          "word": "Train",
+          "ipa": "/treɪn/",
+          "partOfSpeech": "n.",
+          "translation": "火车"
+        },
+        {
+          "index": 863,
+          "word": "Railway",
+          "ipa": "/ˈreɪlweɪ/",
+          "partOfSpeech": "n.",
+          "translation": "铁路"
+        },
+        {
+          "index": 864,
+          "word": "Station",
+          "ipa": "/ˈsteɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "车站"
+        },
+        {
+          "index": 865,
+          "word": "Bus",
+          "ipa": "/bʌs/",
+          "partOfSpeech": "n.",
+          "translation": "公共汽车"
+        },
+        {
+          "index": 866,
+          "word": "Taxi",
+          "ipa": "/ˈtæksi/",
+          "partOfSpeech": "n.",
+          "translation": "出租车"
+        },
+        {
+          "index": 867,
+          "word": "Car",
+          "ipa": "/kɑːr/",
+          "partOfSpeech": "n.",
+          "translation": "汽车"
+        },
+        {
+          "index": 868,
+          "word": "Truck",
+          "ipa": "/trʌk/",
+          "partOfSpeech": "n.",
+          "translation": "卡车"
+        },
+        {
+          "index": 869,
+          "word": "Motorcycle",
+          "ipa": "/ˈmoʊtərsaɪkl/",
+          "partOfSpeech": "n.",
+          "translation": "摩托车"
+        },
+        {
+          "index": 870,
+          "word": "Bicycle",
+          "ipa": "/ˈbaɪsɪkl/",
+          "partOfSpeech": "n.",
+          "translation": "自行车"
+        },
+        {
+          "index": 871,
+          "word": "Scooter",
+          "ipa": "/ˈskuːtər/",
+          "partOfSpeech": "n.",
+          "translation": "踏板车"
+        },
+        {
+          "index": 872,
+          "word": "Boat",
+          "ipa": "/boʊt/",
+          "partOfSpeech": "n.",
+          "translation": "船"
+        },
+        {
+          "index": 873,
+          "word": "Ship",
+          "ipa": "/ʃɪp/",
+          "partOfSpeech": "n.",
+          "translation": "船"
+        },
+        {
+          "index": 874,
+          "word": "Ferry",
+          "ipa": "/ˈferi/",
+          "partOfSpeech": "n.",
+          "translation": "渡轮"
+        },
+        {
+          "index": 875,
+          "word": "Submarine",
+          "ipa": "/ˈsʌbməriːn/",
+          "partOfSpeech": "n.",
+          "translation": "潜水艇"
+        },
+        {
+          "index": 876,
+          "word": "Helicopter",
+          "ipa": "/ˈhelɪkɑːptər/",
+          "partOfSpeech": "n.",
+          "translation": "直升机"
+        },
+        {
+          "index": 877,
+          "word": "Traffic",
+          "ipa": "/ˈtræfɪk/",
+          "partOfSpeech": "n.",
+          "translation": "交通"
+        },
+        {
+          "index": 878,
+          "word": "Road",
+          "ipa": "/roʊd/",
+          "partOfSpeech": "n.",
+          "translation": "道路"
+        },
+        {
+          "index": 879,
+          "word": "Highway",
+          "ipa": "/ˈhaɪweɪ/",
+          "partOfSpeech": "n.",
+          "translation": "高速公路"
+        },
+        {
+          "index": 880,
+          "word": "Bridge",
+          "ipa": "/brɪdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "桥"
+        },
+        {
+          "index": 881,
+          "word": "Tunnel",
+          "ipa": "/ˈtʌnl/",
+          "partOfSpeech": "n.",
+          "translation": "隧道"
+        },
+        {
+          "index": 882,
+          "word": "Lane",
+          "ipa": "/leɪn/",
+          "partOfSpeech": "n.",
+          "translation": "车道"
+        },
+        {
+          "index": 883,
+          "word": "Signal",
+          "ipa": "/ˈsɪɡnəl/",
+          "partOfSpeech": "n.",
+          "translation": "信号"
+        },
+        {
+          "index": 884,
+          "word": "Crosswalk",
+          "ipa": "/ˈkrɔːswɔːk/",
+          "partOfSpeech": "n.",
+          "translation": "人行横道"
+        },
+        {
+          "index": 885,
+          "word": "Driver",
+          "ipa": "/ˈdraɪvər/",
+          "partOfSpeech": "n.",
+          "translation": "司机"
+        },
+        {
+          "index": 886,
+          "word": "Passenger",
+          "ipa": "/ˈpæsɪndʒər/",
+          "partOfSpeech": "n.",
+          "translation": "乘客"
+        },
+        {
+          "index": 887,
+          "word": "Speed",
+          "ipa": "/spiːd/",
+          "partOfSpeech": "n.",
+          "translation": "速度"
+        },
+        {
+          "index": 888,
+          "word": "Stop",
+          "ipa": "/stɑːp/",
+          "partOfSpeech": "n./v.",
+          "translation": "停止"
+        },
+        {
+          "index": 889,
+          "word": "Turn",
+          "ipa": "/tɜːrn/",
+          "partOfSpeech": "n./v.",
+          "translation": "转弯"
+        },
+        {
+          "index": 890,
+          "word": "Fuel",
+          "ipa": "/ˈfjuːəl/",
+          "partOfSpeech": "n.",
+          "translation": "燃料"
+        },
+        {
+          "index": 891,
+          "word": "Engine",
+          "ipa": "/ˈendʒɪn/",
+          "partOfSpeech": "n.",
+          "translation": "引擎"
+        },
+        {
+          "index": 892,
+          "word": "Seatbelt",
+          "ipa": "/ˈsiːtbelt/",
+          "partOfSpeech": "n.",
+          "translation": "安全带"
+        },
+        {
+          "index": 893,
+          "word": "Parking",
+          "ipa": "/ˈpɑːrkɪŋ/",
+          "partOfSpeech": "n.",
+          "translation": "停车"
+        },
+        {
+          "index": 894,
+          "word": "License",
+          "ipa": "/ˈlaɪsns/",
+          "partOfSpeech": "n.",
+          "translation": "执照"
+        }
+      ]
+    },
+    {
+      "title": "十四、工作与职业（Jobs and Occupations Names in English）",
+      "words": [
+        {
+          "index": 895,
+          "word": "Teacher",
+          "ipa": "/ˈtiːtʃər/",
+          "partOfSpeech": "n.",
+          "translation": "老师"
+        },
+        {
+          "index": 896,
+          "word": "Doctor",
+          "ipa": "/ˈdɑːktər/",
+          "partOfSpeech": "n.",
+          "translation": "医生"
+        },
+        {
+          "index": 897,
+          "word": "Nurse",
+          "ipa": "/nɜːrs/",
+          "partOfSpeech": "n.",
+          "translation": "护士"
+        },
+        {
+          "index": 898,
+          "word": "Engineer",
+          "ipa": "/ˌendʒɪˈnɪr/",
+          "partOfSpeech": "n.",
+          "translation": "工程师"
+        },
+        {
+          "index": 899,
+          "word": "Architect",
+          "ipa": "/ˈɑːrkɪtekt/",
+          "partOfSpeech": "n.",
+          "translation": "建筑师"
+        },
+        {
+          "index": 900,
+          "word": "Lawyer",
+          "ipa": "/ˈlɔːjər/",
+          "partOfSpeech": "n.",
+          "translation": "律师"
+        },
+        {
+          "index": 901,
+          "word": "Judge",
+          "ipa": "/dʒʌdʒ/",
+          "partOfSpeech": "n.",
+          "translation": "法官"
+        },
+        {
+          "index": 902,
+          "word": "Police officer",
+          "ipa": "/pəˈliːs ˈɑːfɪsər/",
+          "partOfSpeech": "n.",
+          "translation": "警察"
+        },
+        {
+          "index": 903,
+          "word": "Firefighter",
+          "ipa": "/ˈfaɪərfaɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "消防员"
+        },
+        {
+          "index": 904,
+          "word": "Pilot",
+          "ipa": "/ˈpaɪlət/",
+          "partOfSpeech": "n.",
+          "translation": "飞行员"
+        },
+        {
+          "index": 905,
+          "word": "Flight attendant",
+          "ipa": "/flaɪt əˈtendənt/",
+          "partOfSpeech": "n.",
+          "translation": "空乘人员"
+        },
+        {
+          "index": 906,
+          "word": "Chef",
+          "ipa": "/ʃef/",
+          "partOfSpeech": "n.",
+          "translation": "厨师"
+        },
+        {
+          "index": 907,
+          "word": "Waiter",
+          "ipa": "/ˈweɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "服务员"
+        },
+        {
+          "index": 908,
+          "word": "Cashier",
+          "ipa": "/kæˈʃɪr/",
+          "partOfSpeech": "n.",
+          "translation": "收银员"
+        },
+        {
+          "index": 909,
+          "word": "Shopkeeper",
+          "ipa": "/ˈʃɑːpkiːpər/",
+          "partOfSpeech": "n.",
+          "translation": "店主"
+        },
+        {
+          "index": 910,
+          "word": "Farmer",
+          "ipa": "/ˈfɑːrmər/",
+          "partOfSpeech": "n.",
+          "translation": "农民"
+        },
+        {
+          "index": 911,
+          "word": "Fisherman",
+          "ipa": "/ˈfɪʃərmən/",
+          "partOfSpeech": "n.",
+          "translation": "渔民"
+        },
+        {
+          "index": 912,
+          "word": "Carpenter",
+          "ipa": "/ˈkɑːrpəntər/",
+          "partOfSpeech": "n.",
+          "translation": "木匠"
+        },
+        {
+          "index": 913,
+          "word": "Plumber",
+          "ipa": "/ˈplʌmər/",
+          "partOfSpeech": "n.",
+          "translation": "水管工"
+        },
+        {
+          "index": 914,
+          "word": "Electrician",
+          "ipa": "/ɪˌlekˈtrɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "电工"
+        },
+        {
+          "index": 915,
+          "word": "Mechanic",
+          "ipa": "/məˈkænɪk/",
+          "partOfSpeech": "n.",
+          "translation": "机械师"
+        },
+        {
+          "index": 916,
+          "word": "Driver",
+          "ipa": "/ˈdraɪvər/",
+          "partOfSpeech": "n.",
+          "translation": "司机"
+        },
+        {
+          "index": 917,
+          "word": "Cleaner",
+          "ipa": "/ˈkliːnər/",
+          "partOfSpeech": "n.",
+          "translation": "清洁工"
+        },
+        {
+          "index": 918,
+          "word": "Tailor",
+          "ipa": "/ˈteɪlər/",
+          "partOfSpeech": "n.",
+          "translation": "裁缝"
+        },
+        {
+          "index": 919,
+          "word": "Hairdresser",
+          "ipa": "/ˈherdresər/",
+          "partOfSpeech": "n.",
+          "translation": "理发师"
+        },
+        {
+          "index": 920,
+          "word": "Artist",
+          "ipa": "/ˈɑːrtɪst/",
+          "partOfSpeech": "n.",
+          "translation": "艺术家"
+        },
+        {
+          "index": 921,
+          "word": "Musician",
+          "ipa": "/mjuˈzɪʃn/",
+          "partOfSpeech": "n.",
+          "translation": "音乐家"
+        },
+        {
+          "index": 922,
+          "word": "Actor",
+          "ipa": "/ˈæktər/",
+          "partOfSpeech": "n.",
+          "translation": "演员"
+        },
+        {
+          "index": 923,
+          "word": "Photographer",
+          "ipa": "/fəˈtɑːɡrəfər/",
+          "partOfSpeech": "n.",
+          "translation": "摄影师"
+        },
+        {
+          "index": 924,
+          "word": "Writer",
+          "ipa": "/ˈraɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "作家"
+        },
+        {
+          "index": 925,
+          "word": "Journalist",
+          "ipa": "/ˈdʒɜːrnəlɪst/",
+          "partOfSpeech": "n.",
+          "translation": "记者"
+        },
+        {
+          "index": 926,
+          "word": "Editor",
+          "ipa": "/ˈedɪtər/",
+          "partOfSpeech": "n.",
+          "translation": "编辑"
+        },
+        {
+          "index": 927,
+          "word": "Scientist",
+          "ipa": "/ˈsaɪəntɪst/",
+          "partOfSpeech": "n.",
+          "translation": "科学家"
+        },
+        {
+          "index": 928,
+          "word": "Biologist",
+          "ipa": "/baɪˈɑːlədʒɪst/",
+          "partOfSpeech": "n.",
+          "translation": "生物学家"
+        },
+        {
+          "index": 929,
+          "word": "Chemist",
+          "ipa": "/ˈkemɪst/",
+          "partOfSpeech": "n.",
+          "translation": "化学家"
+        },
+        {
+          "index": 930,
+          "word": "Physicist",
+          "ipa": "/ˈfɪzɪsɪst/",
+          "partOfSpeech": "n.",
+          "translation": "物理学家"
+        },
+        {
+          "index": 931,
+          "word": "Astronomer",
+          "ipa": "/əˈstrɑːnəmər/",
+          "partOfSpeech": "n.",
+          "translation": "天文学家"
+        },
+        {
+          "index": 932,
+          "word": "Veterinarian",
+          "ipa": "/ˌvetərɪˈneriən/",
+          "partOfSpeech": "n.",
+          "translation": "兽医"
+        },
+        {
+          "index": 933,
+          "word": "Dentist",
+          "ipa": "/ˈdentɪst/",
+          "partOfSpeech": "n.",
+          "translation": "牙医"
+        },
+        {
+          "index": 934,
+          "word": "Pharmacist",
+          "ipa": "/ˈfɑːrməsɪst/",
+          "partOfSpeech": "n.",
+          "translation": "药剂师"
+        },
+        {
+          "index": 935,
+          "word": "Banker",
+          "ipa": "/ˈbæŋkər/",
+          "partOfSpeech": "n.",
+          "translation": "银行家"
+        },
+        {
+          "index": 936,
+          "word": "Accountant",
+          "ipa": "/əˈkaʊntənt/",
+          "partOfSpeech": "n.",
+          "translation": "会计"
+        },
+        {
+          "index": 937,
+          "word": "Businessperson",
+          "ipa": "/ˈbɪznəspɜːrsn/",
+          "partOfSpeech": "n.",
+          "translation": "商人"
+        },
+        {
+          "index": 938,
+          "word": "Receptionist",
+          "ipa": "/rɪˈsepʃənɪst/",
+          "partOfSpeech": "n.",
+          "translation": "接待员"
+        },
+        {
+          "index": 939,
+          "word": "Secretary",
+          "ipa": "/ˈsekrəteri/",
+          "partOfSpeech": "n.",
+          "translation": "秘书"
+        },
+        {
+          "index": 940,
+          "word": "Manager",
+          "ipa": "/ˈmænɪdʒər/",
+          "partOfSpeech": "n.",
+          "translation": "经理"
+        },
+        {
+          "index": 941,
+          "word": "CEO",
+          "ipa": "/ˌsiː iː ˈoʊ/",
+          "partOfSpeech": "n.",
+          "translation": "首席执行官"
+        },
+        {
+          "index": 942,
+          "word": "Software developer",
+          "ipa": "/ˈsɔːftwer dɪˈveləpər/",
+          "partOfSpeech": "n.",
+          "translation": "软件开发人员"
+        },
+        {
+          "index": 943,
+          "word": "Web designer",
+          "ipa": "/web dɪˈzaɪnər/",
+          "partOfSpeech": "n.",
+          "translation": "网页设计师"
+        },
+        {
+          "index": 944,
+          "word": "Graphic designer",
+          "ipa": "/ˈɡræfɪk dɪˈzaɪnər/",
+          "partOfSpeech": "n.",
+          "translation": "平面设计师"
+        }
+      ]
+    }
+  ]
+}
