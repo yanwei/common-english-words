@@ -9,18 +9,29 @@
   <body>
     <div class="page-shell">
       <header class="topbar">
-        <div class="topbar-copy">
-          <p class="eyebrow">Zhihu Answer Vocabulary Deck</p>
-          <h1>日常高频英语单词卡</h1>
-          <p class="subtitle">
-            来源回答导语写的是 13 类，但正文实际抽取出 14 个分类，共 944 个单词。
-          </p>
+        <div class="topbar-head">
+          <div class="topbar-copy">
+            <p class="eyebrow">Zhihu Answer Vocabulary Deck</p>
+            <div class="title-row">
+              <h1>日常高频英语单词卡</h1>
+
+              <div class="quick-nav-panel">
+                <div class="quick-nav-select-wrap">
+                  <select id="quick-nav-select" class="quick-nav-select" aria-label="分类快速定位"></select>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
         <section class="stats-panel" aria-label="单词统计">
           <button class="stat-card" data-filter="all" type="button">
             <span class="stat-label">总数</span>
             <strong class="stat-value" id="total-count">0</strong>
+          </button>
+          <button class="stat-card" data-filter="unlearned" type="button">
+            <span class="stat-label">未学</span>
+            <strong class="stat-value" id="unlearned-count">0</strong>
           </button>
           <button class="stat-card" data-filter="known" type="button">
             <span class="stat-label">熟词</span>
@@ -35,22 +46,6 @@
             <strong class="stat-value" id="unknown-count">0</strong>
           </button>
         </section>
-
-        <div class="toolbar-row">
-          <nav class="filter-bar" aria-label="掌握程度筛选">
-            <button class="filter-chip is-active" type="button" data-filter="all">全部</button>
-            <button class="filter-chip" type="button" data-filter="unlearned">只看未学</button>
-            <button class="filter-chip" type="button" data-filter="known">只看熟词</button>
-            <button class="filter-chip" type="button" data-filter="fuzzy">只看模糊</button>
-            <button class="filter-chip" type="button" data-filter="unknown">只看不会</button>
-          </nav>
-
-          <div class="quick-nav-panel">
-            <div class="quick-nav-select-wrap">
-              <select id="quick-nav-select" class="quick-nav-select" aria-label="分类快速定位"></select>
-            </div>
-          </div>
-        </div>
       </header>
 
       <main id="category-list" class="category-list" aria-live="polite"></main>

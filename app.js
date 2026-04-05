@@ -10,12 +10,13 @@ const categoryList = document.querySelector("#category-list");
 const categoryTemplate = document.querySelector("#category-template");
 const cardTemplate = document.querySelector("#card-template");
 const quickNavSelect = document.querySelector("#quick-nav-select");
-const filterButtons = [...document.querySelectorAll("[data-filter]")];
+const statFilterButtons = [...document.querySelectorAll(".stat-card[data-filter]")];
 const statTargets = {
   total: document.querySelector("#total-count"),
   known: document.querySelector("#known-count"),
   fuzzy: document.querySelector("#fuzzy-count"),
   unknown: document.querySelector("#unknown-count"),
+  unlearned: document.querySelector("#unlearned-count"),
 };
 
 let dataset = null;
@@ -37,12 +38,9 @@ async function bootstrap() {
 }
 
 function bindFilters() {
-  filterButtons.forEach((button) => {
+  statFilterButtons.forEach((button) => {
     button.addEventListener("click", () => {
       activeFilter = button.dataset.filter;
-      filterButtons.forEach((item) =>
-        item.classList.toggle("is-active", item.dataset.filter === activeFilter)
-      );
       render();
     });
   });
@@ -50,31 +48,44 @@ function bindFilters() {
 
 function render() {
   updateStats();
+  syncActiveFilter();
   renderCategories();
 }
 
 function updateStats() {
-  const totalWords = dataset.categories.reduce(
-    (sum, category) => sum + category.words.length,
-    0
-  );
-
   const counts = {
+    total: 0,
     known: 0,
     fuzzy: 0,
     unknown: 0,
+    unlearned: 0,
   };
 
-  Object.values(statuses).forEach((value) => {
-    if (counts[value] !== undefined) {
-      counts[value] += 1;
-    }
+  dataset.categories.forEach((category) => {
+    category.words.forEach((word) => {
+      counts.total += 1;
+      const status = statuses[word.word];
+      if (status && counts[status] !== undefined) {
+        counts[status] += 1;
+      } else {
+        counts.unlearned += 1;
+      }
+    });
   });
 
-  statTargets.total.textContent = totalWords;
+  statTargets.total.textContent = counts.total;
   statTargets.known.textContent = counts.known;
   statTargets.fuzzy.textContent = counts.fuzzy;
   statTargets.unknown.textContent = counts.unknown;
+  statTargets.unlearned.textContent = counts.unlearned;
+}
+
+function syncActiveFilter() {
+  statFilterButtons.forEach((button) => {
+    const isActive = button.dataset.filter === activeFilter;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-pressed", String(isActive));
+  });
 }
 
 function renderCategories() {

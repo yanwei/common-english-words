@@ -45,6 +45,21 @@ body {
   box-shadow: var(--shadow);
 }
 
+.topbar-head {
+  display: block;
+}
+
+.topbar-copy {
+  min-width: 0;
+}
+
+.title-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 20px;
+  align-items: start;
+}
+
 .eyebrow {
   margin: 0 0 6px;
   color: var(--accent);
@@ -68,14 +83,13 @@ body {
 }
 
 .stats-panel {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  display: flex;
   gap: 12px;
-  margin: 22px 0 14px;
+  gap: 12px;
+  margin: 20px 0 0;
 }
 
 .stat-card,
-.filter-chip,
 .audio-button,
 .status-button {
   border: 0;
@@ -83,6 +97,8 @@ body {
 }
 
 .stat-card {
+  flex: 1 1 0;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -96,9 +112,19 @@ body {
 }
 
 .stat-card:hover,
-.filter-chip:hover,
 .word-card:hover {
   transform: translateY(-2px);
+}
+
+.stat-card.is-active {
+  border-color: transparent;
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 12px 28px rgba(15, 90, 86, 0.2);
+}
+
+.stat-card.is-active .stat-label {
+  color: rgba(255, 255, 255, 0.76);
 }
 
 .stat-label {
@@ -110,28 +136,13 @@ body {
   font-size: clamp(26px, 4vw, 34px);
 }
 
-.filter-bar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.toolbar-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-  gap: 18px;
-  align-items: end;
-  margin-top: 14px;
-}
-
 .quick-nav-panel {
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
+  width: 100%;
 }
 
 .quick-nav-select-wrap {
   position: relative;
+  width: 100%;
 }
 
 .quick-nav-select-wrap::after {
@@ -146,19 +157,6 @@ body {
   transform: translateY(-65%) rotate(45deg);
   pointer-events: none;
   opacity: 0.75;
-}
-
-.filter-chip {
-  padding: 10px 16px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.66);
-  color: var(--ink);
-  font-size: 14px;
-}
-
-.filter-chip.is-active {
-  background: var(--accent);
-  color: #fff;
 }
 
 .quick-nav-select {
@@ -335,10 +333,11 @@ body {
 
 @media (max-width: 860px) {
   .stats-panel {
+    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .toolbar-row {
+  .title-row {
     grid-template-columns: 1fr;
   }
 }
@@ -352,6 +351,10 @@ body {
   .topbar {
     padding: 16px;
     border-radius: 22px;
+  }
+
+  .stats-panel {
+    grid-template-columns: 1fr;
   }
 
   .word-grid {
