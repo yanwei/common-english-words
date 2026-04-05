@@ -107,8 +107,12 @@ class AppHandler(SimpleHTTPRequestHandler):
 
 def main() -> None:
     init_db()
-    server = ThreadingHTTPServer(("127.0.0.1", 8000), AppHandler)
-    print("Serving on http://127.0.0.1:8000")
+    host = "0.0.0.0"
+    port = 8000
+    server = ThreadingHTTPServer((host, port), AppHandler)
+    print(f"Serving on http://{host}:{port}")
+    print("Accessible from your LAN via this machine's local IP, for example:")
+    print(f"  http://<your-local-ip>:{port}")
     try:
         server.serve_forever()
     except KeyboardInterrupt:
